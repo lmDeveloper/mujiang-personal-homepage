@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sample-openai-workflows",
+    "title": "AI agents are becoming practical workflow collaborators",
+    "summary": "A starter item showing how the homepage groups AI updates by date. The scheduled workflow replaces this sample with fresh public RSS items.",
+    "source": "Sample Radar",
+    "url": "https://openai.com/news/",
+    "publishedAt": "2026-06-14T08:00:00.000Z",
+    "date": "2026-06-14",
+    "language": "en",
+    "tags": [
+      "AI",
+      "Workflow"
+    ]
+  },
+  {
+    "id": "sample-cn-productivity",
+    "title": "AI 正在重塑业务流程与知识工作",
+    "summary": "示例数据用于首屏预览。GitHub Actions 运行后会抓取中英公开资讯并写入同一个 JSON 文件。",
+    "source": "Sample Radar",
+    "url": "https://news.google.com/search?q=AI",
+    "publishedAt": "2026-06-14T06:30:00.000Z",
+    "date": "2026-06-14",
+    "language": "zh",
+    "tags": [
+      "AI",
+      "生产力"
+    ]
+  }
+]
