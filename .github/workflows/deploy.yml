@@ -35,11 +35,6 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - name: Refresh AI news
         run: pnpm update:news
-      - name: Commit refreshed AI news
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: refresh ai news"
-          file_pattern: public/data/ai-news.json
       - name: Build
         run: pnpm build
       - uses: actions/configure-pages@v5
@@ -48,3 +43,8 @@ jobs:
           path: dist
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Commit refreshed AI news
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh ai news"
+          file_pattern: public/data/ai-news.json
