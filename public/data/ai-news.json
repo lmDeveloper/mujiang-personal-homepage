@@ -1,5 +1,31 @@
 [
   {
+    "id": "40f72dd83715d184",
+    "title": "The US is advancing AI safety through state and federal action",
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "publishedAt": "2026-07-15T12:00:00.000Z",
+    "date": "2026-07-15",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "a0940ba659c9e17e",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "publishedAt": "2026-07-15T10:00:00.000Z",
+    "date": "2026-07-15",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "f695a5c92631149e",
     "title": "Pipaltree.ai Appoints Ajay Ravindran Vice President – Brand Intelligence - Branding in Asia",
     "summary": "Pipaltree.ai Appoints Ajay Ravindran Vice President – Brand Intelligence &nbsp;&nbsp; Branding in Asia",
@@ -441,33 +467,6 @@
     "source": "人民日报",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORlF5aVQ0RGM3WndGUW1MNlF3UGdEYTZmX3FRR0VQR1l4Z0gxUkM2LVU0WmxRN3dmSjFpbzF2ZEpWeHZ4bXc4aGQ2OVFUWEZzZGdlSFhsN1ZwZWd6TWliM0JYV194N0VFWEpMb2hZRFhDaWhMRk9id3dzMk5nWlR0cDFYZw?oc=5",
     "publishedAt": "2026-07-15T01:47:03.000Z",
-    "date": "2026-07-15",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "d775a79413e08ad5",
-    "title": "苹果洽谈AI模型压缩初创公司PrismML - 观点网",
-    "summary": "苹果洽谈AI模型压缩初创公司PrismML &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03X2dTbEZHUGJUYTBsbHlUTlBIbjJrX1F1V1A5VTJ0dDk0alJGZmg1bkRnc2xyWGVIN2lwTWxGbmdjT1I5c2VMVUFpVHZNd3RaX3RselM0REI4ZXFQcWRyNUNn?oc=5",
-    "publishedAt": "2026-07-15T01:42:23.000Z",
-    "date": "2026-07-15",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "模型"
-    ]
-  },
-  {
-    "id": "646de8f8aadb00fe",
-    "title": "“阅读园区”AI赋能传统广告迭代升级沙龙活动圆满举办 - sipac.gov.cn",
-    "summary": "“阅读园区”AI赋能传统广告迭代升级沙龙活动圆满举办 &nbsp;&nbsp; sipac.gov.cn",
-    "source": "sipac.gov.cn",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUc0LUQwNjA2NVdpVllNdE9zTXVzOVdCclVCMUxycGpsQmt4UlR0V3JRaGtzYnlKWHdyemNPbnYyTVJnYWtqZkpfNXQtWkcteGVIQlhSUHFURVlWamdSVFVRRUtQZUFySkNta2F0aWZ5NFdlMXlUckFGREhTVVZId2FabkF4dWswVFE?oc=5",
-    "publishedAt": "2026-07-15T01:36:00.000Z",
     "date": "2026-07-15",
     "language": "zh",
     "tags": [
