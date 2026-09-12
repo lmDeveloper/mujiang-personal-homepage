@@ -1,25 +1,301 @@
 [
   {
-    "id": "4d48c51efc9b0e95",
-    "title": "国产AI芯片企业燧原科技登陆科创板，上市首日高开188.37% - 东方财富",
-    "summary": "国产AI芯片企业燧原科技登陆科创板，上市首日高开188.37% &nbsp;&nbsp; 东方财富",
-    "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SRDQzb2hOYm5SQkdURUFNYmtfVDNzdHJnME9wb3lPdzV1UDczVXhNelBCUVZyV1lxdjgwSDk5VU5NMUdpZ1pfeU8yYjFFTDh3eWF2YS1FSWtiSVFZT0h6MEJuemlTQQ?oc=5",
-    "publishedAt": "2026-09-11T04:33:08.000Z",
-    "date": "2026-09-11",
+    "id": "111d9d33c80ea2e3",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "publishedAt": "2026-09-14T00:00:00.000Z",
+    "date": "2026-09-14",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "09cdf4ec7cf37d7c",
+    "title": "第一财经总编辑杨宇东：全球AI发展的三个反直觉真相 - 第一财经",
+    "summary": "第一财经总编辑杨宇东：全球AI发展的三个反直觉真相 &nbsp;&nbsp; 第一财经",
+    "source": "第一财经",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNkVnTUR1SGlva0JXVTUxRXV1S3VlWEhOSW1BUkFYN3AtWXhyMEFRTmZoX09UZnQ3QmRGeXNCWFh2Y2RqVHR2cV9vZW96ckc2VTZB?oc=5",
+    "publishedAt": "2026-09-12T04:27:02.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "e38ada9089b33c53",
-    "title": "当 AI 智能体开始干活 Arm 为什么更看重 CPU - tmtpost.com",
-    "summary": "当 AI 智能体开始干活 Arm 为什么更看重 CPU &nbsp;&nbsp; tmtpost.com",
-    "source": "tmtpost.com",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1abUxmek9oTmNVN0E4VUV4UVV0MktEX1d0dUFSdVhXWEg1ZnZINEpqX19LVi1TMHZVaUk5RG5BUTdEaUo3ZzhKcVlTOW4?oc=5",
-    "publishedAt": "2026-09-11T04:18:00.000Z",
-    "date": "2026-09-11",
+    "id": "a623245269f373a0",
+    "title": "中国算力基础设施与人工智能服务能力加快走向东盟 - 新浪财经",
+    "summary": "中国算力基础设施与人工智能服务能力加快走向东盟 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04QXIxS2dFVFlETVluc2NOdG41RmNiT19Za3pYVExlQ0g3d1ZkaXYtc1JCa2ZXTDNJU0tuUUtoemhEMzU5LVVsX0tMSVhHbnRITFhTUlBJLXRCWnM5clg1a09KUXVrbVpMYXdEeDJkVW5NdFl1Z1ZLNQ?oc=5",
+    "publishedAt": "2026-09-12T04:24:54.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "c1fd292686d36053",
+    "title": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位” - 新浪财经",
+    "summary": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位” &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcHREdjhHak9ZVXRfSnJMQUdFTjhBVVZLY3BEUDZLTUpUSmFrZ0J5WGpxYnNUOE1UWmwwWVFpaW5Zb2dhejZNcXU3Ukg1Q2JYV0tTLVpEdS1FOVlZcUZEdzM3N05rUXh5WTBUT3FRYVA3WldwaDhqeG1JV0FhNEE3eA?oc=5",
+    "publishedAt": "2026-09-12T04:18:45.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "c5dfdae72fa0ea07",
+    "title": "“AI毁灭人类”警报拉响！OpenAl和Anthropic为何不敢停下来？央行超级周来袭，美联储加息概率逼近90%；商标风波致LV 7月中国销售额跌30% | 一周国际财经 - 每日经济新闻",
+    "summary": "“AI毁灭人类”警报拉响！OpenAl和Anthropic为何不敢停下来？央行超级周来袭，美联储加息概率逼近90%；商标风波致LV 7月中国销售额跌30% | 一周国际财经 &nbsp;&nbsp; 每日经济新闻",
+    "source": "每日经济新闻",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBldHJGZzMzaVdycld6eVZiWWJMT2NNOFluVk8yYUUzS1ViUm5WenBKVXBQa3NfbjI2Tm04YW1CS0FmNDFXLWlIaVRpSUdkRW5QYmI2alRLTnFvZHNrV3N4eUNkblJSdw?oc=5",
+    "publishedAt": "2026-09-12T04:17:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "5ef8c9933443a8e4",
+    "title": "【青春华章·AI绘江淮】守千年文脉，绽皖韵芳华 - 安徽新闻联播",
+    "summary": "【青春华章·AI绘江淮】守千年文脉，绽皖韵芳华 &nbsp;&nbsp; 安徽新闻联播",
+    "source": "安徽新闻联播",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFaVZ2Qm1FRTRVcmxwOWJOUGR0dTBEaUVnM1hZS3poZTVWRUtZM0FmemRKT2YyWHRpNU1vWDdkaHFwN2RRejV2V3ZMMFlTOHNRNXlPXzUwSldUUTlDdktRbFQ4bW1OT1ZHNE1wOEFnWFY0Nkhs?oc=5",
+    "publishedAt": "2026-09-12T04:16:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "c086bba5ece50a62",
+    "title": "中国算力基础设施与人工智能服务能力加快走向东盟 - 新浪网",
+    "summary": "中国算力基础设施与人工智能服务能力加快走向东盟 &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZFFLX0tFN1hCbFFGeW9YUm1tRUpXbGZqZzhYcnhWMXpnTlFmUUZrZnhhUlBWYkRjVm9OdW54NzFmQ0dmTzBZM3oyZ2szdDlEaG1aZ0U2YkwyUVZodEdIdVMtc0lKR3VGYUl1bnN2amJUM0kybEZCZmxsYXNSZw?oc=5",
+    "publishedAt": "2026-09-12T04:13:40.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "7a9fe9a5536519a6",
+    "title": "OpenAI confirms AI agents disrupted software service during testing: Report - Anadolu Ajansı",
+    "summary": "OpenAI confirms AI agents disrupted software service during testing: Report &nbsp;&nbsp; Anadolu Ajansı",
+    "source": "Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFfSktQcXEtM1haQ0FVVEE4UU15QXc2NnZFUkdpcmpELW9qUkNUUFRzeThjcV9uWEZyWVVUZlVhNVhNRGZKNU9nb3VHa1AyX09CdlRiQ0didGVvNHBMbXVHNk50RWZlT1c2VEFDZlg3VmxzR2dLbXZKVFBRUFdXU0lqemZhVjNtT3ZqWFByd3NhbThySDVBWjFYejdLM1BTcTJxWE5GVnN5Z3pVTTg2UXljZ1lWUGROM1p3bHJBa3dvWHcxNWN1MUxISQ?oc=5",
+    "publishedAt": "2026-09-12T04:13:19.000Z",
+    "date": "2026-09-12",
+    "language": "en",
+    "tags": [
+      "AI",
+      "Agent"
+    ]
+  },
+  {
+    "id": "d3ce46f9dd77099b",
+    "title": "2连板人气股：AI应用产品尚处于商业化起步阶段 - 新浪财经",
+    "summary": "2连板人气股：AI应用产品尚处于商业化起步阶段 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXRwYnhVSGx0NmRwbkZaTGdidVl4emdWSlJoVHNVZGRkbmVMSXRVdFRLNzZCbmM5MF9TRE1lTC0wWFpGMkt0SHRjYk5weTk4UG0xNDlpUjlUNDQ0empBaHlzc1luWGVEU3F2LWtEWVNlRHJmWkFaS3BVWHhrTk5EeA?oc=5",
+    "publishedAt": "2026-09-12T04:13:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "f8484e6e3d1c5554",
+    "title": "#放心好了AI不会取代我们的#AI和人脑的运行逻辑完全不同，大家真的不用担心AI代替人类了 - 新浪网",
+    "summary": "#放心好了AI不会取代我们的#AI和人脑的运行逻辑完全不同，大家真的不用担心AI代替人类了 &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmR4WnBhQ2RyWXJmNDA4OVlaNEg3T2VGMXlOTE1OUmRZZ0o3RGNwYnpyUzdrZUJlNjRRT0xudjhicjhxMXgwZnVqckpSR3pXUEpqRER4R2oySlptY3hiVzNGY0VLV2JWemFzUHR2UGE2OXJTdmluQ0tWQ251cmpMMU15Qzk?oc=5",
+    "publishedAt": "2026-09-12T04:10:50.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "26183bd8d73b5b5e",
+    "title": "外滩大会热议：如何让数据真正跑进AI？ - 智东西",
+    "summary": "外滩大会热议：如何让数据真正跑进AI？ &nbsp;&nbsp; 智东西",
+    "source": "智东西",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE00UFcwZC01SnkzcEVYLTN6V0NSbGFIelFtOG9lT25McjlFTk5BYjZWeU1RMHdaSzh5dHI1eDBqU2VvUXRUSUE?oc=5",
+    "publishedAt": "2026-09-12T04:08:49.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI",
+      "数据"
+    ]
+  },
+  {
+    "id": "ba1224d6cce1bb87",
+    "title": "2026–2027 年 Salesforce 现状报告- 成功模式 - IBM",
+    "summary": "2026–2027 年 Salesforce 现状报告- 成功模式 &nbsp;&nbsp; IBM",
+    "source": "IBM",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaV3c5ZzJjNHJyUzB5akFqeEs2bWFnWUFkcE9CaW1qOG9qa09scTQ5Q1lUcXltY181eFhzMGF3Y1ZoNWhCYkV1bThRNmRXTTNuZjhSNEQ2Qjg1WmwxVXZacDFsOA?oc=5",
+    "publishedAt": "2026-09-12T04:02:46.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "c3b62bb046534d12",
+    "title": "【财经分析】AI大模型加速“下矿” 规模化商用仍存挑战 - 中国金融信息网",
+    "summary": "【财经分析】AI大模型加速“下矿” 规模化商用仍存挑战 &nbsp;&nbsp; 中国金融信息网",
+    "source": "中国金融信息网",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWWQ2WUJtcm8xUm1TUnJQbWZVM2xMYnNoUWJwUWNMV3lXaXhoUVJDY0U1SnpmRmdabGQ5NTVXRHpuVGk2dlc1U3ZseXJmc1gzUjZtUDYycmJBaHVEZlRjR3kyV2pEZUE?oc=5",
+    "publishedAt": "2026-09-12T03:59:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI",
+      "模型"
+    ]
+  },
+  {
+    "id": "da39a2055eaacb00",
+    "title": "当AI开始替人下单，谁来证明它是谁？ - 新浪财经",
+    "summary": "当AI开始替人下单，谁来证明它是谁？ &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV3RVdVhkZGg2T2J6VVFOV3E1RVJlc0xzT2dFU0Yyclh0MmZMS2dQYWkwY3dCSzI3WTI5dTRFVkV6dDRFeS1Pel9iUmZEVkJ0aUl6ajJiX1FyZk4zZmMxVEJYYTlkbFloRHpISjZFclBsdmRocUROa29sMHpveVJfUW5pNlF0WGtoNDc3OTBfNnZkYmZ3bXhhd0ZGdzNIMVllNEswQTBfWktrbzhoaDVWMWNn?oc=5",
+    "publishedAt": "2026-09-12T03:58:50.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "90ff6af441597ca8",
+    "title": "想用AI投资赚钱？外滩大会上，“专业对口”脱口秀演员呼兰这样说 - 上观新闻",
+    "summary": "想用AI投资赚钱？外滩大会上，“专业对口”脱口秀演员呼兰这样说 &nbsp;&nbsp; 上观新闻",
+    "source": "上观新闻",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oVHdJcFNKYVRIQXlhWExnbzhUYkhtSTRUMkpFZko0SlNLYTI5SU43OVhfQ1VzQjVEWnRzX1VkQ0paUHY4X3VERUJhUUkwanlmOHo4VkJVbnBjUEky?oc=5",
+    "publishedAt": "2026-09-12T03:56:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "adff94a68442e544",
+    "title": "好评中国|AI创意长漫：让青春跃动在科技创新的广阔天地 - 光明网",
+    "summary": "好评中国|AI创意长漫：让青春跃动在科技创新的广阔天地 &nbsp;&nbsp; 光明网",
+    "source": "光明网",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NQnZyYURlaFVQLTAxdnN6OXJKNmVBVWpnM0w4T25RbW9nbHFiYkhnYkFDeFZoVHUzby15aFlwUmZXOE1ndW5jZy12eEstWHY3ZnhyVUJGX0M0SFFQTlN6MXg4QUtHQQ?oc=5",
+    "publishedAt": "2026-09-12T03:53:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "a919a685e9a774d4",
+    "title": "加快向全球顶尖的人工智能学院进发！ 陈吉宁调研上海创智学院2026-09-12 - 上海市人民政府",
+    "summary": "加快向全球顶尖的人工智能学院进发！ 陈吉宁调研上海创智学院2026-09-12 &nbsp;&nbsp; 上海市人民政府",
+    "source": "上海市人民政府",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGJSMWI0QXpuM0dpVHJjblVnMHVoUTlBNllZUTRIN2Zqc1hzWDFzQm1rSWlxZU8wOUd6cENZb0U1a1JXMHlpTjdKcmVmdDFlOG11ZTJ2dWRWOUd4RlhCeTRITGdlWmhJd0JpbThOM1JiY2lLRXFid3pydG90ZmRoSVRESlZCNTlp?oc=5",
+    "publishedAt": "2026-09-12T03:52:33.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "7300c69f0e512020",
+    "title": "多维度探寻算电协同新路径——算力涨价潮影响与应对④ - 新浪新闻_手机新浪网",
+    "summary": "多维度探寻算电协同新路径——算力涨价潮影响与应对④ &nbsp;&nbsp; 新浪新闻_手机新浪网",
+    "source": "新浪新闻_手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43LVQ3TlpIcGVZV1pXWWRQSFc0c05abnpRMWdkVjZucWlPMUpJZE9NOXdVVzhQQ2JHSElJaHYzbGV1OUNHbzRfMDRJbVRGUDZkMUloR29ZUWZDVXg1TnVmMV9fRFJGd2N3RFFXeWtTc3VaTllrWnc?oc=5",
+    "publishedAt": "2026-09-12T03:50:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "e277b6169bf03e17",
+    "title": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位 - 新浪财经",
+    "summary": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWU9pRUxPeUJSOXQ1MjNmOWl5THFSSzdBOFIzM3FzazZRVUxiRXk3cGg3dFRLY3p0MkNjVGN0Wk5IRW5ZcnhXVkp5Umt4NU9IMlJXWF83MHItcThpbk00VmFuSElpdV9JYkQtVHFTR3VaN3hjaE12V3JOa3JRZ2NoeEl5Qmx3XzlLbWUxVU96cThQT2ZIT2NNV09rbENzbTBkVVBoYnF6Wlg2U1oteVFSd3hB?oc=5",
+    "publishedAt": "2026-09-12T03:46:50.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "2284c1489f3d1b08",
+    "title": "AI医疗车、AI医生、AI“超戒”……“AI+健康”新成果成服贸会打卡点 - 新浪财经",
+    "summary": "AI医疗车、AI医生、AI“超戒”……“AI+健康”新成果成服贸会打卡点 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZG9zaTVHdU9UMTdjUHBOS2l2dnI0OFFHYTUxTDRUYURwdkVpVl94OVdNQXhNRDhBalFwYnU0VXFfb3BXY1NYU0w1T0lIY3BHVDEtY2M0bElhZDNLUUZYbU1DdmNSVkJia1lUcnU5QWhKSUZ1WmgtMVhRdEx6SGFvckVqOFlPeVRNU1B4Vmx6bE1abmxaQ1VwRWRyWTd1aEt6cW5sc2taaVM2aTB4LU14OFJR?oc=5",
+    "publishedAt": "2026-09-12T03:46:48.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "385121d8f400d095",
+    "title": "俞敏洪谈让传统企业自己搞AI创新：“比拎着头发离开地球还难”|论坛|人工智能|新东方|企业家|崇礼_手机新浪网 - 新浪财经",
+    "summary": "俞敏洪谈让传统企业自己搞AI创新：“比拎着头发离开地球还难”|论坛|人工智能|新东方|企业家|崇礼_手机新浪网 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpQ09sdE51Um5GdzB1UGVtSlV5NDRlWVFNd1hMWktxdW1xZEJPN3FGZU15YXFxV3UzZVd5dHhvX2ZSY0JUZkprbmJXMjFOajkzOExMdXNTTEFYRlRGWUt1UW5lbVd0V1VtZzVfVFJlckhxMnUzUjNER1RJXzhiV0U?oc=5",
+    "publishedAt": "2026-09-12T03:42:48.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "5c01c1ec0a691160",
+    "title": "从无人车走向AI服务城市治理九识宣布城市级物理AI战略升级|小程序|智驾|租车|车辆|自动驾驶_手机新浪网 - 新浪财经",
+    "summary": "从无人车走向AI服务城市治理九识宣布城市级物理AI战略升级|小程序|智驾|租车|车辆|自动驾驶_手机新浪网 &nbsp;&nbsp; 新浪财经",
+    "source": "新浪财经",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdWtRbU5CTVhrTjZYVldWbVhwamI4TTdqalVEUVVfbkptUVZRNW9mN1c3OG1TenU3WWh6eVA0OWNZUnkwVXl4NEJMRFZPcklpeEtha2xpOS1BYzU0UDlkV2JqckxvcDNjM29GWThvN3I3cVFvT0JXTnFMTHZ6d0E?oc=5",
+    "publishedAt": "2026-09-12T03:42:48.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "231ec5b4a54f1b34",
+    "title": "人工智能八十年进化史：从图灵到Agent的技术汇流 - 虎嗅网",
+    "summary": "人工智能八十年进化史：从图灵到Agent的技术汇流 &nbsp;&nbsp; 虎嗅网",
+    "source": "虎嗅网",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ejJyX09oZXVWOXFQeVRqc01kWnBlV3F0WVNfQ3F3R0Q3ZzNNR3h6UEhMUTFYQ1JRZ1JJbkpyQUcxMUJicXhTT2FpbFZBMFNBQnVXUDRFUHJzQzBSWHVR?oc=5",
+    "publishedAt": "2026-09-12T03:37:16.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI",
@@ -27,448 +303,169 @@
     ]
   },
   {
-    "id": "e9927e6c1201f2c6",
-    "title": "Ex-Anthropic researcher Jacob Coxon warns AI could grow \"smart enough to kill us\" - CBS News",
-    "summary": "Ex-Anthropic researcher Jacob Coxon warns AI could grow \"smart enough to kill us\" &nbsp;&nbsp; CBS News",
-    "source": "CBS News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOVBYNk5waEQwNWtHUjg1a3lGUDFEbk1ya3N6Slk5MkZnNEhaSjlWbElISVdNRlhzS2hPUFhfV3hxUEVOeS1obk1BZ29Gb1BzTDJZd01IbUVCNmRUcHhGdTc4eXZxZlNWb1p1WHJKVVhobEpyeWtKWkR3dDRQZw?oc=5",
-    "publishedAt": "2026-09-11T04:17:00.000Z",
-    "date": "2026-09-11",
+    "id": "37b432a1cf1ce204",
+    "title": "Kingdom seeks to attract AI companies with computing capacity, capital, market access - アラブニュース",
+    "summary": "Kingdom seeks to attract AI companies with computing capacity, capital, market access &nbsp;&nbsp; アラブニュース",
+    "source": "アラブニュース",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlJKYlJjQXlvaFJGOGJ0dVR0dWxHeGJ1VktwVm9KOEVlM093WlBmZndtMlVLTkVrT2Vzajd6VjhVaGNCOWctMHMzczYyWXl0bUd0d3pPWnpsM3NGUnlXeXZDYTVVSnR2RzFCeXVmU2xaRTFMYkFPc2YtcWdLZzRxbXMxZE9WWllCYmh2WXBEUHBwcU9IOC0wS1QwcHNEYjY1TEFFX0ZsVUQ5bzJTSVVXY3BGVWhEMEsxb1I5U013LVJFNnpnZU40ZFloTQ?oc=5",
+    "publishedAt": "2026-09-12T03:33:04.000Z",
+    "date": "2026-09-12",
     "language": "en",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "95301733ac7ef549",
-    "title": "AI产业落地进入“最后一公里”关键期——六联智能FDE学院首期开营 - 新浪网",
-    "summary": "AI产业落地进入“最后一公里”关键期——六联智能FDE学院首期开营 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaU11Q1JIWXFKNzlfRGFORGRralBqTFJTMXc4MUduQUNoV21USENFcmhvcWtGYUJ4RG9Ld214SW5yVFhITXlwMHZISV9ZaG0yUWUyMGUwbzZYdFVhcm10ZWIwd2FxaEd0cERsMUxxcl91T2k4QW9iTzE2bGlQVEYyendNWFEwSTk3X2lBRXRnNA?oc=5",
-    "publishedAt": "2026-09-11T04:16:59.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "45a963523a782b19",
-    "title": "AI代理颠覆“狼来了”？Bernstein：市场恐慌与基本面脱节，这些美股新兴电商股被“错杀” - 新浪网",
-    "summary": "AI代理颠覆“狼来了”？Bernstein：市场恐慌与基本面脱节，这些美股新兴电商股被“错杀” &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YVXg4ME9fMUpSLUJEazdrVFNYOHp2aUV5UEJnT0g2SjhMTzRJNHl3WEpLck4yRS1VNUhRb0lFUHhaTFpIUUZSTnVWUjJGZ3h3dVlKRUpUQWcyZEpjR0VLRkRtRjQxSHNVMlAyNEFtYVJ5R3dDYV9yd3VZdDNxcEU?oc=5",
-    "publishedAt": "2026-09-11T04:14:33.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "f7a5c2c0e4036d46",
-    "title": "为何AI模型落地医院效果不理想？多位专家给出分析 - 中国科技网",
-    "summary": "为何AI模型落地医院效果不理想？多位专家给出分析 &nbsp;&nbsp; 中国科技网",
-    "source": "中国科技网",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QOHRGWEJfMUtHNW1KU0ZSYWRiWWg4Wk11SzRHVEpURndfYlBZRlFrSEdyMDlRQXZkVXdzcU4xNjdOZUlFOW9nc2ExLWRMT0J2ZjBTeHJoMGJfd1MyQTVTcGdKVGp6eXVXRW5ad2NkTUY?oc=5",
-    "publishedAt": "2026-09-11T04:08:01.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "模型"
-    ]
-  },
-  {
-    "id": "132ccaaf2ac380e1",
-    "title": "BRAHMA AI 荣获 2026 年技术与工程艾美奖（Technology & Engineering Emmy®） - 美通社",
-    "summary": "BRAHMA AI 荣获 2026 年技术与工程艾美奖（Technology & Engineering Emmy®） &nbsp;&nbsp; 美通社",
-    "source": "美通社",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wR3VOTHp6WEVFTFFqVG1sRkdYYmxfMTNmTTg2Tnh4dUdZYkY3c2pieFloYjNEQ0tYRkNGUjZ0OERvWWlJNUd2TzA5UkhnNk5QR2x2MFRWUQ?oc=5",
-    "publishedAt": "2026-09-11T04:08:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "0b6a31bb51e5583e",
-    "title": "蚂蚁大安全CTO陈亮：安全可信是AI规模化应用的前提 - 新浪网",
-    "summary": "蚂蚁大安全CTO陈亮：安全可信是AI规模化应用的前提 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yOTFGTUd5Z3ZSZ0VKVGRJenlqemt4eTF3eS1YUGRkQWhkLVZoeTNmWVlJZm1SQWV1MTFVODdNTktVYTR2VVR5cXgxTko3Tnl5MWNPVC1oWWp6M0psN0NYUjFMNFUybkM0TmI0ODNKYWItQVNLMGc2Qg?oc=5",
-    "publishedAt": "2026-09-11T04:00:06.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "eccc817984d3b5d7",
-    "title": "AI对决AI：构建下一代通信安全架构 - 电子工程专辑",
-    "summary": "AI对决AI：构建下一代通信安全架构 &nbsp;&nbsp; 电子工程专辑",
-    "source": "电子工程专辑",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyVUJfNUx3NDJETFExQ05xTVAtT2FRdW1zZXcwS3BzU3hJZ3pXcEVtbTg1bDJrLW5hMWVhcUpQc3d5d2Z5WVkxejJHTkJyTWttRWZF?oc=5",
-    "publishedAt": "2026-09-11T04:00:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "2ccd034f8d6b5218",
-    "title": "AI正在激活工业企业的长尾需求｜爱分析访谈 - 电子工程专辑",
-    "summary": "AI正在激活工业企业的长尾需求｜爱分析访谈 &nbsp;&nbsp; 电子工程专辑",
-    "source": "电子工程专辑",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdVZob2RuRmlEdTdsX3pRckFlZ21SN3JrVnRvNUlRclRRVUEzekpRM3pqVDVHMDVCRHR4YVV6VkFNN0NfSWhBZUR5MnpQbnVaZThj?oc=5",
-    "publishedAt": "2026-09-11T04:00:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "a4f4f63e399924ab",
-    "title": "顾雷：人工智能驱动数字普惠金融的规制边界与发展方向 - 新浪网",
-    "summary": "顾雷：人工智能驱动数字普惠金融的规制边界与发展方向 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mSXZmVy1QYldEZmNHeVd0Rml0M0d2SlJUdXpfVFEyd0lxNXRuOE1FLXk4bEJ6Y293OVVYdUIyTVA2RURaV3FMSnFrZUV1ZGR0d0VRUldBZVNJd0xNOUIxSlYtMzRoOEtyYmlxaURrQ1JIVFVDNkNxQkM5eVI?oc=5",
-    "publishedAt": "2026-09-11T03:59:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "5edd0844ba6fa563",
-    "title": "AI在金融业究竟走到哪一步了？外滩大会看门道 - 新浪网",
-    "summary": "AI在金融业究竟走到哪一步了？外滩大会看门道 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVTIxWnd1and0N1o2V3hiTl8wR2Q4aTFPU2NlYUxwSGZDTEcxbjZKM040c0pzMTJrSXE3NzhoWUlHRmRuY2hYNDJDUWtTb0RxelBhTk1mZnFzcXFzNkR0d3p0UTNPd3R0ZDVQNkVMdHFPTmdCdWlmbEVPVTllcmc?oc=5",
-    "publishedAt": "2026-09-11T03:56:28.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "ce69c61f30642181",
-    "title": "开会员、报课程……你愿意为AI花的第一笔钱是什么？丨V观话题 - 川观新闻",
-    "summary": "开会员、报课程……你愿意为AI花的第一笔钱是什么？丨V观话题 &nbsp;&nbsp; 川观新闻",
-    "source": "川观新闻",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4yRjBseXg3SDJVT09mc09DNVlsbGt4YkxucDlnY3RtakJuOUtxUk1DYnZwOWZ5ZEN0UnhNSGZjMm9fTWRBRHNQdG9HVDllUQ?oc=5",
-    "publishedAt": "2026-09-11T03:55:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "eef990bb60ca2945",
-    "title": "弦子的山海经｜AI 新经济，让科技融入烟火日常 - shobserver.com",
-    "summary": "弦子的山海经｜AI 新经济，让科技融入烟火日常 &nbsp;&nbsp; shobserver.com",
-    "source": "shobserver.com",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBERjVIZGRLWkRzaDZ4UkZGbXhNeWoxTG1lM1dQVmpxNGg4N2pGbVFoNXo1cElJaE00Yk5JU0dPdGswX3IySlN1MVhxTWRIYXk2d0x4dUl5V1liT2JTbVE?oc=5",
-    "publishedAt": "2026-09-11T03:55:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "7160be044b40f189",
-    "title": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 - 新浪网",
-    "summary": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yMjB3TjluZXAtSXN1a3NxSkVhYmFXc1B6dGdZNzdFUHpybjJWWjNWOFNtNHJwcnJUbUgzTEZxMjU3d29kY2ZjeVMxQ2RVQ3llQk1MSHFfNWl6M3l6ZTVYQ3hwR3hxTFVTcTV3ZTI2Qm5wTlJJTTVmNzFiUUl4NVk?oc=5",
-    "publishedAt": "2026-09-11T03:55:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "数据"
-    ]
-  },
-  {
-    "id": "f8e7878731975e0c",
-    "title": "顾雷：人工智能对数字普惠金融的六大边际效用 - 新浪网",
-    "summary": "顾雷：人工智能对数字普惠金融的六大边际效用 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GcVh3RGdvSkJ3TFFPQlVqNElKZUVPZkxObTh2d2ZtMGJXbk1iei05TVAxZ3RjYm5BMng2QUx3SmQzNDNON1NWNGVwbHVnOXhkYXhBVDRpcHhuNEZvejIxUVNiQm9ITUcxN21MSVVNY3VVY09vUWZ4RnVHemE?oc=5",
-    "publishedAt": "2026-09-11T03:54:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "775f019d4c51fee1",
-    "title": "【指数陪伴知识】AI制药是什么？三大商业模式盘点-易方达投教基地 - 金融界",
-    "summary": "【指数陪伴知识】AI制药是什么？三大商业模式盘点-易方达投教基地 &nbsp;&nbsp; 金融界",
-    "source": "金融界",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wZzVVdlAzUGM2amdETzV1ZWlMcnB1X3h3SFlBUHhEVFJoUXduWkdiTG9GeHRCQUU5VWZPTHlmREZFa09QTjI1cndiQnltb1hVSE1henl6TGt2ZzBCOEdZQlRMWWE1NnZtQlczTHgyQXc?oc=5",
-    "publishedAt": "2026-09-11T03:53:43.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "1b3feecc8804d2a1",
-    "title": "亚信联合创始人：AI风险将由内容深入到网络、数据、系统与资金 - 观点网",
-    "summary": "亚信联合创始人：AI风险将由内容深入到网络、数据、系统与资金 &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HT1ktRm1LMGlHOVh2YlN2U0wzRGgyTjNtNFJoSi13QnZnZ3FVNklOWk1hck9GSWVPT1E5Q2czRFJ6bzI5MlFyNVFhSUJTVHBmRmh6eWhuR0Mxamlud2xkSmVB?oc=5",
-    "publishedAt": "2026-09-11T03:53:01.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "数据"
-    ]
-  },
-  {
-    "id": "5928ee07f335c5cc",
-    "title": "2026年GEO获客服务商深度解析：AI营销品牌哪家引流快？ - 凤凰网",
-    "summary": "2026年GEO获客服务商深度解析：AI营销品牌哪家引流快？ &nbsp;&nbsp; 凤凰网",
-    "source": "凤凰网",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rVDZ0MU9tNHVWSzE5OHUtUGdmQzJsSnlIRlF6OU9QOG41Vno0dTdxZmd2NW14blNPVUwwVHBzcjd5bV9OQ1RKa0RTdDVDQlk?oc=5",
-    "publishedAt": "2026-09-11T03:52:29.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "d8f1545a26f4613d",
-    "title": "从数字医疗到重症 AI，六家生命科学企业路演 杭州这场 “科学咖啡馆” 活动让生命科学遇见资本 - ori.hangzhou.com.cn",
-    "summary": "从数字医疗到重症 AI，六家生命科学企业路演 杭州这场 “科学咖啡馆” 活动让生命科学遇见资本 &nbsp;&nbsp; ori.hangzhou.com.cn",
-    "source": "ori.hangzhou.com.cn",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96OFIzRG9IbktxdnFhRDVueXhXckVGbXJlb3FONHZjN003cWZvSE90RDNQYmN0V1dpRlpRX2t2LVA2NkpFbnhFSXlmYmlmLVVpR2Rwc05tX0Z6dkRDVEhQZTFER3lBZzY3eTdOcHlMR2xRUldmeTZ1Y255Mk4xUQ?oc=5",
-    "publishedAt": "2026-09-11T03:50:45.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "dcfc9002b1ab2477",
-    "title": "每个开发者都能做的工业质检 AI，RT-Thread 命题公布 | 活动预告 - 电子工程专辑",
-    "summary": "每个开发者都能做的工业质检 AI，RT-Thread 命题公布 | 活动预告 &nbsp;&nbsp; 电子工程专辑",
-    "source": "电子工程专辑",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90d190OEJGZzFmYkMyOWJScWNzSVlEelpiRWUtTXZNVVVfeU9KU1lXM0Y0RnV0TFZiMlVFYlJ3UTVRWjY1SDI0TUlybGNHSC1yLW5Z?oc=5",
-    "publishedAt": "2026-09-11T03:50:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "ff5d58a5867c139e",
-    "title": "AI在金融业究竟走到哪一步了？外滩大会看门道 - shobserver.com",
-    "summary": "AI在金融业究竟走到哪一步了？外滩大会看门道 &nbsp;&nbsp; shobserver.com",
-    "source": "shobserver.com",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Sc0hyYjVCOWFqWWxncUVCZG5PYnFZT21PQnRnS0Z5OHRaSVVhS243SklOU3owLVdDNDVlMERXTkhub0hpWFdRa0tNc1lPQVRwcmFTbkV5Q1RaU003R1E?oc=5",
-    "publishedAt": "2026-09-11T03:48:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "75897b26756978ed",
-    "title": "大连通维人工智能：推动大模型能力进入企业真实业务场景 - 新浪网",
-    "summary": "大连通维人工智能：推动大模型能力进入企业真实业务场景 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdjh4S3NTOE5LTmw4ZWhIRllyWUdJYkN4dEhBX05oVmFGcnRpNFRreFZ0Umx1T2t4WWJBV0xfbmJhVHhzSThyWm9aa2xpWFBNT2JuaXhZQ19mTS1jTkJZVVdmZ0swWWdBRG04QXhkdTFjYnRBVU5vTm4zSUdWZ2tmc2FvRy1KMDRDVXhSd1Bxaw?oc=5",
-    "publishedAt": "2026-09-11T03:40:57.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "模型"
-    ]
-  },
-  {
-    "id": "ea124c3e1a5cbd21",
-    "title": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 - 新浪财经",
-    "summary": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 &nbsp;&nbsp; 新浪财经",
+    "id": "9f8c807006b7c6d1",
+    "title": "AI时代，女性如何成为共享者、共创者、共建者 - 新浪财经",
+    "summary": "AI时代，女性如何成为共享者、共创者、共建者 &nbsp;&nbsp; 新浪财经",
     "source": "新浪财经",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16elZZN0lSVGlWSGJTcy1sZkVBZFZBQTRIWjg0a0Y0RzFWcEtWZkxQQTJJU2tyTGc1RmdhS08yN242T1prRkdubmVQVGxhRWxmR3FuVUNUMGZvRVJmYy1VUk9XUmh3alM0WTN6RzBDb3F2WEtIZEFPRA?oc=5",
-    "publishedAt": "2026-09-11T03:39:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "数据"
-    ]
-  },
-  {
-    "id": "23f3c9dbfe5fa668",
-    "title": "工信部印发“人工智能+软件”行动方案，到2028年覆盖2万家规模以上企业 - 新浪网",
-    "summary": "工信部印发“人工智能+软件”行动方案，到2028年覆盖2万家规模以上企业 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak9xTFYyaS1EdGg1dXdPWXhLMmtwREQzakNaczZwWkVkQ0JLVTNDZTdvLWl4RGZlQ0twM2IwTXVXVzhCNllIZ1MzOVhqRDlXdlNNTmlydGxMNDNQclF2TGNpQ285VmpJdGpiMGNLcWdndDV2Ul9KSEUta29ia1FfUUZJdEpJSGJwTEZoZGVaTkgzd3VxekU4ekNmVGtqLTItankxSHYzbw?oc=5",
-    "publishedAt": "2026-09-11T03:35:13.000Z",
-    "date": "2026-09-11",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0xCZ3dMNGluMXNxWS1fdlVQUk9kcE83QnBTVk1PQUxYa28yNElveV8wcWZzX1VpMHdDMGJNNzlySUIteEdtNnRvZktLR2ZrX05sVEJSMlhZeFF1V0hoTU1iUmxGVnN5NmgyWjlHWGNiR0h6TnJzdnR6bFBHeEp2b2RSZV9UcFhQQ0tzdHBMNUk4VnRTSWJEV1RId29xUks4NTlpSlZPRQ?oc=5",
+    "publishedAt": "2026-09-12T03:32:48.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "715b0b5c90ff2065",
-    "title": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 - shobserver.com",
-    "summary": "AI制药竞争不在单点算法，而在数据质量、临床场景与转化机制的系统能力 &nbsp;&nbsp; shobserver.com",
-    "source": "shobserver.com",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4R0c3NkdncWNNeGlJMHl3RUZkLURLajB3LS1hLWR4OGVxS1NhM3RWVWp5TlhCb2tIaEcwOEJ0ZmpmYkNaSHQ2TzBNUnc1LUtSODhTT2dMVWQyNnExOFE?oc=5",
-    "publishedAt": "2026-09-11T03:35:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "数据"
-    ]
-  },
-  {
-    "id": "aa69a604bcce2c09",
-    "title": "2026年AI智能锁品牌选什么品牌质量更靠谱？ - 凤凰网",
-    "summary": "2026年AI智能锁品牌选什么品牌质量更靠谱？ &nbsp;&nbsp; 凤凰网",
-    "source": "凤凰网",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUSmlCVXBneWVwRTgtUm1ZNi0tMDhSQ21oTnhGZDhXYld5VGt4enVGbU51b1p1dnRnZzhBb0VUdGJMeFNoVXdTb1dieU1oWGc?oc=5",
-    "publishedAt": "2026-09-11T03:34:12.000Z",
-    "date": "2026-09-11",
+    "id": "f4f025e7c0a7c03d",
+    "title": "中国联通亮相2026中国算力大会 展示AI全链路进阶新图景 - 新华丝路",
+    "summary": "中国联通亮相2026中国算力大会 展示AI全链路进阶新图景 &nbsp;&nbsp; 新华丝路",
+    "source": "新华丝路",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfbmZWLVAzZGJLWVZ1VEhSeWU4MTd5clBUdHhiT0pZSnl2c2FRY0p0QzdUYTVHSzl1aElIMjVkTlZUeUxCRlRKZ1JsTEc0WUpHdFdVQmdaYlI?oc=5",
+    "publishedAt": "2026-09-12T03:31:18.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "1f66bffaa834c9b4",
-    "title": "Republican leaders take a stand on artificial intelligence: They demand security oversight without giving China an advantage - voz.us",
-    "summary": "Republican leaders take a stand on artificial intelligence: They demand security oversight without giving China an advantage &nbsp;&nbsp; voz.us",
-    "source": "voz.us",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMEdGVktqckplWUJQZ2k1V3I1UTFYVnA5ZHNaQXRoV1BaTDBGU1RNUkFlZi0wYnBjWW00bi1zWndvVFVDYnZTVTdTWlkxb29wbnJKUlEtUnMwVmstSm9FOTJTa09ZZjRLd1NHVVhrdnJFRXN0QlZaUUlZNVM2TWowZEhvZWhpLUFhYkdKN2ZiZnNLYWJJWXRLa0doOGVXRzZKMnlFakZfTGRfOUtzUWZCMEd3MWtzWE9feVI4blIzdWV4N21JWnczNDloamRpckpyaWN1TzUwSTkyLTRtU2FfXzZqYXhBUWhpcFRQdmROcFY3b0NjRFpTczVuZzI?oc=5",
-    "publishedAt": "2026-09-11T03:34:05.000Z",
-    "date": "2026-09-11",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "73b7f3ab2d23c1eb",
-    "title": "明确19项重点任务 江西出台“人工智能+信息通信”行动计划 - 凤凰网江西",
-    "summary": "明确19项重点任务 江西出台“人工智能+信息通信”行动计划 &nbsp;&nbsp; 凤凰网江西",
-    "source": "凤凰网江西",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZVWNDemExMV82eGxBSEs1WWNNUko4QXozdjVsTGtKOTlScnRxWXhlU3BUdnc0cjhpZTZFN3lJMFpYQWhVR0xzanZB?oc=5",
-    "publishedAt": "2026-09-11T03:24:32.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "0a15737f82ee225c",
-    "title": "当车展遇见AI！来南京国庆双展，一起提前抵达未来 - 中国江苏网",
-    "summary": "当车展遇见AI！来南京国庆双展，一起提前抵达未来 &nbsp;&nbsp; 中国江苏网",
-    "source": "中国江苏网",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3p4V21EUlN3STdkQ0I2MEdLUVdvWDA0ZkpiSHlwbm9GUmo4NTZKbUtlNlBVVFpoRjllQUxkUUlkSWI5S0NDNHA2dGFUWDFoT1pmVHRrM3RXeExMVy14RDZIcmFRNGp3enRhN2VQRjA1dFpCNWVPbnVGZU9hOGczdWZTS2JNSUtfNHRB?oc=5",
-    "publishedAt": "2026-09-11T03:24:00.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "d6d520f752cdb308",
-    "title": "Jonesboro 911 dispatch center uses AI to train new recruits - K8 News | Jonesboro, Arkansas",
-    "summary": "Jonesboro 911 dispatch center uses AI to train new recruits &nbsp;&nbsp; K8 News | Jonesboro, Arkansas",
-    "source": "K8 News | Jonesboro, Arkansas",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeGNzQkNDckpfYXVnd00xZUJWb0Zaem5pbllaMTNVUktXR2l6OVp2MUhhRlRsNlI4WHl5YnFkZFBaa1ZVaUNZdDJrOHpRUkJjRklSRDVBT2tPWjR5MmhaYnhLWnpfR295cEFnSVVwLXFyQk51ZkxCenhtZjJxRDBlOGk3WElvNWRnZ2JLWE9xVk15a29t0gGoAUFVX3lxTE9wQWF2XzcxV1BWUnFucUJxVkg4elJacFBwTE8wMnJEckhVWDVmOXJ5R1JxTTFPd1lYVHR3bWxHbk1EMmV6cnBEM0s5MmpYX3FJNTJVMG5OZG5TRjhmajVXVE1Ic2hYR3FXV0N0U3FmNGlReGVJczhPazRwRmVZSzFUZEVKdllQdUhMSnprMHZ1LXRLYk9GRW5BSUVzUGU0TGxHSFNoRTQwZA?oc=5",
-    "publishedAt": "2026-09-11T03:21:00.000Z",
-    "date": "2026-09-11",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "df3d62fc03854b92",
-    "title": "据报华为、 寒武纪等上调昇腾AI芯片价格 - 观点网",
-    "summary": "据报华为、 寒武纪等上调昇腾AI芯片价格 &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvVFJpblpETkp5bkVFQ05xV1BDUmNNSTdUQ0hLRHUxY09TcnhuMF9qZkw5d0Qya1V0MlhJeTFvekZBX09SS3FqSDdFb3UzZw?oc=5",
-    "publishedAt": "2026-09-11T03:18:17.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "ac632f3248dea9c9",
-    "title": "支付宝联合高德动量推出“AI付·具身智能” - 观点网",
-    "summary": "支付宝联合高德动量推出“AI付·具身智能” &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YRk5VWk93bk9jZk5Fc2toWVAyZ1JoOGZRczFvSjR6QWI0Qzd3ZHZoRk9nMU9QVVJjNDNxZWdCaWNMYUY4T3NEQl9pbmh5N1NJbVNQQ2xUSE9ObWJybTdneDNR?oc=5",
-    "publishedAt": "2026-09-11T03:16:44.000Z",
-    "date": "2026-09-11",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "3edec43bf6739591",
-    "title": "2026外滩大会开幕 AI新经济听诺奖得主怎么说 - 新浪新闻_手机新浪网",
-    "summary": "2026外滩大会开幕 AI新经济听诺奖得主怎么说 &nbsp;&nbsp; 新浪新闻_手机新浪网",
+    "id": "79cea89624e6e47b",
+    "title": "华东师范大学教授张容南：AI时代如何守护人类尊严 - 新浪新闻_手机新浪网",
+    "summary": "华东师范大学教授张容南：AI时代如何守护人类尊严 &nbsp;&nbsp; 新浪新闻_手机新浪网",
     "source": "新浪新闻_手机新浪网",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GR1BpT3hQTWFGT2JNWFBUX0JfTTRSMm45V2RmbnFvZFNiU3FxU3FLX1pnNmVrbGRDQ3dTZEtxSExXaEswcWFlSXpuZHRKaFpSRVdGNjNfcWkzS2NHR1FLWi1kakpBbGtoLWhWZS1XM2tKZHkzQnc?oc=5",
-    "publishedAt": "2026-09-11T03:15:44.000Z",
-    "date": "2026-09-11",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2blJoU0dxZjVLdXdIVkRqNUNHZHpja2o3dXR2UWxkZ2gxOE5GSjRGTnJxTUhBUG1KVEVzU3dLUU8xRUtyUjR0T216d1NBNzhub1RoTWt5a1A0UXkwWG9pX2I3OVRoV2tzSjFrdzNDYmo?oc=5",
+    "publishedAt": "2026-09-12T03:27:00.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "df0cd6f3d4590ee9",
-    "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ - The Guardian",
-    "summary": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ &nbsp;&nbsp; The Guardian",
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
-    "publishedAt": "2026-09-11T03:15:00.000Z",
-    "date": "2026-09-11",
+    "id": "fcd93cc19a4ed611",
+    "title": "安永毛鞍宁：AI不是“门口的野蛮人”！ - 新浪网",
+    "summary": "安永毛鞍宁：AI不是“门口的野蛮人”！ &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRkg0S01FeG9CeDV4VEpzNVk2dmFrZG1XZ1I5cnNiUlNmNGFSUkZZMDVFSGg0Qzk0YzgtSTdIZEV3aWdzUUtsdGRGMDZIZ2NYSl9FQ1FkUWR6cFhPcW83RHlvQktNVkgyY3V5SkU4dXFsdkxfMnAwY1c4dkdCM3c?oc=5",
+    "publishedAt": "2026-09-12T03:25:00.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "308412b4bd0fa18d",
+    "title": "Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms - 2 Minute Medicine",
+    "summary": "Artificial intelligence (AI) chatbot reduced depression, anxiety, and eating disorder risk symptoms &nbsp;&nbsp; 2 Minute Medicine",
+    "source": "2 Minute Medicine",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDREdTY2clpwOGREcjNaQkIyWVBsUEthLVJiTHhoWjBESURCNmRaeER6aXZXRV9Ya3gzdFRQZTB6bEFTQ1FySzhfQmI4b2lXUnFwVV9oQzhLMFBpSTByQ1Z5U2RDeWk3aGIweDBvQnRrQ21FQ0oxUVN5OGNGMURmeHN4aDVwd3p1QXpVWDdpNVMxUzhkTzdBX3ZoRUdOMHR6VTY3clBIbG1SaHFqQlQ3N2pMZGdlT09JZFphcXl5QndlVFpocHNz?oc=5",
+    "publishedAt": "2026-09-12T03:22:30.000Z",
+    "date": "2026-09-12",
     "language": "en",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "70df9dc748183394",
-    "title": "东软集团等成立智能科技公司 含AI及智能机器人业务 - 东方财富",
-    "summary": "东软集团等成立智能科技公司 含AI及智能机器人业务 &nbsp;&nbsp; 东方财富",
+    "id": "182062f2aa8820d3",
+    "title": "张军平：学科差异走向消亡，AI 开启知识大融合时代丨外滩大会·见解论坛 - 第一财经",
+    "summary": "张军平：学科差异走向消亡，AI 开启知识大融合时代丨外滩大会·见解论坛 &nbsp;&nbsp; 第一财经",
+    "source": "第一财经",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsLURmV2pYRWZ3VGxreUgtUDNPTTM2cy05OEg5WkROdEd2RkJoSXZHUUYyNWhpaUR4UWhobEFEMFFwbGkza3cySmtkLWhGZW1kZGxSZA?oc=5",
+    "publishedAt": "2026-09-12T03:21:24.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "d455a283d4680bd6",
+    "title": "长沙这家咖啡店，免费送AI算力 - 新浪网",
+    "summary": "长沙这家咖啡店，免费送AI算力 &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUUVKU0VGUkdOMFJjRUVLYjBUZ3Q3MGp5b1dpUzdoOUNsLTRWT2xMdGtVQXg3dk9QV0NGblRCWktFVHE5dkhCRTlqdlAwdzhucDdoZUEzQzVOSS1rc2NYVjdMcnhYenBnRl9yN3Vabm5SRmY1N29KRE4tdlI4dUk?oc=5",
+    "publishedAt": "2026-09-12T03:19:37.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "2c98635668e97674",
+    "title": "保险业AI竞速下半场：从通用智能迈入行业智能，产品定义是核心竞争力 - 新浪网",
+    "summary": "保险业AI竞速下半场：从通用智能迈入行业智能，产品定义是核心竞争力 &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTFWRGRxRENhSW9vQkZIU3ExNUxiRnZ0ZTRuZnk0cndDRFpXRXMxZm50QVl4ZTJZWU1VZWdFUHY2aDVvZW9ocWRjVG9iVmpoWnZ3NjZnRDFKNjRlZG0tVC1mSnF5enJhci04OHE1RWlvOGc0bmYyNDFBNUItUWRrak9B?oc=5",
+    "publishedAt": "2026-09-12T03:13:37.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "db1a6fc71727a223",
+    "title": "外媒看中国：这里正成为AI新经济的试验场（结尾有彩蛋～） - 新浪网",
+    "summary": "外媒看中国：这里正成为AI新经济的试验场（结尾有彩蛋～） &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPdjA0NXdSOTF1TWQ0Q2h3WFZXRmVtb3duMjlEeEV2anZQTm4yS0ZRdHJacllZT3VKSzZOSEhrS3AxMG55S1pCQzJLX2lTQjFHYjRQcXo5OXZwYnVFWlF5Mk1iRGM2Y0s2NGFYM0d0Q1dRMEpxZjlsVE1uRFBrdTg?oc=5",
+    "publishedAt": "2026-09-12T03:12:44.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "e2d68b6927e3c37f",
+    "title": "AI时代，女性如何成为共享者、共创者、共建者 - 新浪网",
+    "summary": "AI时代，女性如何成为共享者、共创者、共建者 &nbsp;&nbsp; 新浪网",
+    "source": "新浪网",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qS0J2dTYwamFZcHdVZjRwMThGNjBZT0NlWlhvZG40elZtTXVHQ2M0VmNEZWh1NURjMHl3SGlwY1JkYmw1N0RHMVlaX2djNDlNZzJyc3B6N0xVV09ILXVoaGVxNUloak1KbHhsYmI3SU8xODkwbDZlNURUa1ZOdGs?oc=5",
+    "publishedAt": "2026-09-12T03:12:44.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "5672c9d8d9bae8ee",
+    "title": "【青春华章·AI绘江淮】赴科研之约，铸国之重器 - 央广网",
+    "summary": "【青春华章·AI绘江淮】赴科研之约，铸国之重器 &nbsp;&nbsp; 央广网",
+    "source": "央广网",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OUmZFLS12bjFUSjBrT2ZkWHlLVklaWHdOWnV3VlJfNmxiend6bmd0cEZDdXN6NENMOUJOcmM2ZFozMHZvb2dUY3kySG5MdmphWWt2MjBHUURsMm4yMmh3bTNxTmNRc3JGX3RtWDJBM0V1QQ?oc=5",
+    "publishedAt": "2026-09-12T03:10:34.000Z",
+    "date": "2026-09-12",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "ccf16e26ad796817",
+    "title": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位 - 东方财富",
+    "summary": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位 &nbsp;&nbsp; 东方财富",
     "source": "东方财富",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83V0l1Q0ZTaU5xR01LclRpZEpSNTBNSFpMek44U0N6Qk1DeW9WM0s1RmxXbXdkczN1U0M4OURFRWpWYnhhZy1kYlZfd3JHMEhWbjhaRzRySmVtVERoYUtFeQ?oc=5",
-    "publishedAt": "2026-09-11T03:13:45.000Z",
-    "date": "2026-09-11",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCa2gxVjk2WmZzeEZwM3kxc0RSeTBCRG1NT3dOTHJMMU81WTRaZGdKX1JKaENaNEwzUFFUNDRZeW9LaUgycUU5VEFVTXVvWGg4ZHNfbmx6Q3pPaVRuaHllMnREMk5tQQ?oc=5",
+    "publishedAt": "2026-09-12T03:05:36.000Z",
+    "date": "2026-09-12",
     "language": "zh",
     "tags": [
       "AI"
