@@ -1,12 +1,311 @@
 [
   {
-    "id": "acecc55d2d70aa2b",
-    "title": "外媒：OpenAI智能体“擅访”澳政府网站数月后，阿尔巴尼斯宣布将设立AI监管机构 - 新浪网",
-    "summary": "外媒：OpenAI智能体“擅访”澳政府网站数月后，阿尔巴尼斯宣布将设立AI监管机构 &nbsp;&nbsp; 新浪网",
+    "id": "d2469c12b4c181b4",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "date": "2026-11-12",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "3def8db273a3d4d6",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "date": "2026-11-11",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "a07afe06b9c53e8c",
+    "title": "我一直在关注$CRWV，我觉得强劲的AI需求只是其中一部分原因。更大的问题在于，这种增长能否转化为可持续的利润。@** 提出了一个很有意思的观点。下一次财报发布值得重点关注。 $CoreWeave (CRWV.US)$$快辑半导体 (QUIK.US)$$帕沃英蒂格盛 (POWI.US)$ - Moomoo",
+    "summary": "我一直在关注$CRWV，我觉得强劲的AI需求只是其中一部分原因。更大的问题在于，这种增长能否转化为可持续的利润。@** 提出了一个很有意思的观点。下一次财报发布值得重点关注。 $CoreWeave (CRWV.US)$$快辑半导体 (QUIK.US)$$帕沃英蒂格盛 (POWI.US)$ &nbsp;&nbsp; Moomoo",
+    "source": "Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVJfenNaczlHbFJHSWE2V2VpcDM0VDdRbkxnMnp2S0tCbzFpX3YwT2ZCQ2E3TDhZNEJ5Q3BuY25VVFAxaFUzZWhQNmh6WmZFTmlIRnR4ZTItN2ZCekpMdnotWkgwUDBzYTRYUVVHRkhOdEJ2bUlRR1VUYTBhNzljQ0lWRXlFdmd5bjI5TFpnVW5mVlFfZXZ4UXpvM0o3LTFjcVdRWWg4RQ?oc=5",
+    "publishedAt": "2026-11-11T06:00:17.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "94600b99d1aebeed",
+    "title": "手绘动画出现六指，《疯狂约会美丽都》导演卷入AI造假风波 - ThePaper.cn",
+    "summary": "手绘动画出现六指，《疯狂约会美丽都》导演卷入AI造假风波 &nbsp;&nbsp; ThePaper.cn",
+    "source": "ThePaper.cn",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iLTdYYUpKZ0ZCYUVNOFFCV2JBRUNlbXBZYmNObV9oOXd2UzM3RmVBVGlHYl9UMzNVeVZaV0k2REotbHd0WWc5c3RCS0FMeUFqRElPZXdFS0F3WERFRjhvRw?oc=5",
+    "publishedAt": "2026-11-11T06:00:17.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "cd37efc27db7a7af",
+    "title": "AI硬件上游掀扩产潮：合计约38亿，宏达电子拟10亿布局高端元器件 - Forbes China",
+    "summary": "AI硬件上游掀扩产潮：合计约38亿，宏达电子拟10亿布局高端元器件 &nbsp;&nbsp; Forbes China",
+    "source": "Forbes China",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UMk81b1ktdHdBWU95YWNSY0F2OGp4UEUxSUtpdGdfZzJsMTV1SEpZZE0wVkRGeGdFQ3lEVUZjellYeG93WXEyUFdfQmJVWmtxcWhBUzZFdFNsWjUtVGlzSklPUU9WVjVCYnRzcG1B?oc=5",
+    "publishedAt": "2026-11-11T05:56:48.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "e0e57f09ec5a46f4",
+    "title": "AI能提出真正有趣的科学问题吗？破译“学术品味” - 凤凰网科技",
+    "summary": "AI能提出真正有趣的科学问题吗？破译“学术品味” &nbsp;&nbsp; 凤凰网科技",
+    "source": "凤凰网科技",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxbHpkX3pqcTFhcW1JbGxBTi1NczltVjd6MTBVazJwbzU5QUFOTFZGX0pXbkJSSl9xeGZhUDhuRzVjd2lRQ1JnV1E3NTA?oc=5",
+    "publishedAt": "2026-11-11T05:56:36.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "7b3c3c995f300c6d",
+    "title": "傲基股份新设子公司 含AI软件开发业务 - 新浪网",
+    "summary": "傲基股份新设子公司 含AI软件开发业务 &nbsp;&nbsp; 新浪网",
     "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kUDdaLWhfcko3RTZXaDVnRGlISXp1YWQ5TE1KNng1Z19ORXI5UWpKaG1EMnZkWnMxMGdCYkdqTWJ3cFp5LWxPQjlvdw?oc=5",
-    "publishedAt": "2026-11-10T07:03:34.000Z",
-    "date": "2026-11-10",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kVWxHRTZsTEd5Qjg2QUlOWUpuOG03TkhTQ1NKcmNQSEVoS3loVnlXUDJHbnJ0WUl2Y2JXa1JzSlNWUmNidktSMU9OVQ?oc=5",
+    "publishedAt": "2026-11-11T05:56:11.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "b4edf511853b2aae",
+    "title": "美CISA代理局长：AI攻击加速 未来两年网络防御更艰难 - Sohu",
+    "summary": "美CISA代理局长：AI攻击加速 未来两年网络防御更艰难 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSW8xVU93SGpzZTlUVXFJbU9KSlpRb3B2Y0hVT216NkhmVTNCNWMtMTVtZlJqdWtZMHVqZFRZSUxmLTBVdWhHUV8zZ2NGMmozUEZfSHl6dG1Od2VXMzhxOUxFazAyVnhQekZNSWE2RDVqN0xVcWVlbFJoOVJoVjI1cEJxSFZIT1hk?oc=5",
+    "publishedAt": "2026-11-11T05:54:00.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "8e1a22fe34abf614",
+    "title": "须海江：程序员90%的工作或被AI替代 但不等于会被淘汰 仍需能够给AI下指令的人 - 第一财经",
+    "summary": "须海江：程序员90%的工作或被AI替代 但不等于会被淘汰 仍需能够给AI下指令的人 &nbsp;&nbsp; 第一财经",
+    "source": "第一财经",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XMkMyR1RrTktTRGEzV1RyVndmTnRsMVUxdm9wV2pWR2hZR1JxYUxxLWRIX2ZzRVZldzlOVG9VODNpTDRiZGlqbHBsak9mcU15Zks3LQ?oc=5",
+    "publishedAt": "2026-11-11T05:53:52.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "ec4ef5052b60b90d",
+    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替 - 凤凰网科技",
+    "summary": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替 &nbsp;&nbsp; 凤凰网科技",
+    "source": "凤凰网科技",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96S3ZGLTBZUVZBN1JoS2dNcUExZjRIdkhqWlpsTUdmSmhPaWRhRGhqTFYyQ3lqT1lkaUxPUzBGMU1CSWJ1U2JnSGRLM3I?oc=5",
+    "publishedAt": "2026-11-11T05:53:00.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "04ce9953d291895d",
+    "title": "闫友璨：单纯讲课的教师或容易被AI替代 教学要结合宏观理解与实践 不止做知识的搬运工 - 第一财经",
+    "summary": "闫友璨：单纯讲课的教师或容易被AI替代 教学要结合宏观理解与实践 不止做知识的搬运工 &nbsp;&nbsp; 第一财经",
+    "source": "第一财经",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1IRHJfUW53dzVaeUdibElxVkdTbWxXcnFmREFWMGVkQ0tuenh5RTZKUVByNUFITFVvSXd4cDJxanExMWJLWHZOSDhQZktUcEhkMG5hQg?oc=5",
+    "publishedAt": "2026-11-11T05:52:48.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "6ecf5b0696a9684a",
+    "title": "2026，AI应用的钱都流向了哪里？ - ThePaper.cn",
+    "summary": "2026，AI应用的钱都流向了哪里？ &nbsp;&nbsp; ThePaper.cn",
+    "source": "ThePaper.cn",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtdzVXZHJVSTloMW5hLUhWVmxZZ3ZZeWFINVBsbFZVOS1vV3o3SGQzSTZKaV9Gbnkwd1Azb0V5MVdKUUQ5V2c1N3dyN3FxWGhYSWxYclNQenJXRFFpV0d2Ug?oc=5",
+    "publishedAt": "2026-11-11T05:51:56.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "1965dfbf0fa4dead",
+    "title": "算力订单炸裂，“AI交易”为何退潮? 摩根大通揭示AI投资与生产率兑现时间差 - 金融界",
+    "summary": "算力订单炸裂，“AI交易”为何退潮? 摩根大通揭示AI投资与生产率兑现时间差 &nbsp;&nbsp; 金融界",
+    "source": "金融界",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EUmtVMlJfaTRab3BxNGUtSng3Sm9td1g0MEtleGExaXNPNXNiM3hUNE1Wd1ZuTGZSWU9nS29vX1FNNVg1RFZPcW12WGNwZGZTUEl5MmRaNHZtcmtfaVZDc2ZFUQ?oc=5",
+    "publishedAt": "2026-11-11T05:50:39.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "0f470ca7040e4c88",
+    "title": "双 11 的 AI 账本：改了效率，却改不了命 - 投资界",
+    "summary": "双 11 的 AI 账本：改了效率，却改不了命 &nbsp;&nbsp; 投资界",
+    "source": "投资界",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MOGR4RXRabkVUcTR5MUFfXzRYQ3dhYzZ1NDdvcnZyQmpEcENqYW54ZXZhcXlZeXBwNG9CWjdoTE1LMW84OXBwOVlzMmMzNmRhRWZIV2JB?oc=5",
+    "publishedAt": "2026-11-11T05:50:00.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "9f980acefc89520b",
+    "title": "The holiday shopping season is underway, and a growing number of shoppers are turning to artificial intelligence for help finding gifts, comparing products, and hunting for deals. - Facebook",
+    "summary": "The holiday shopping season is underway, and a growing number of shoppers are turning to artificial intelligence for help finding gifts, comparing products, and hunting for deals. &nbsp;&nbsp; Facebook",
+    "source": "Facebook",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUTNjUnRPSHlId0RrODcwTWdlLWFpVDhsQ3VWUFg1ZkYyc1lsZWJselh5V1pPR2wtWHpIN0U0YlB1VXpvalJzTzZlR1Z3YWg4YlgwY3RlWFY4ejlEdU91ZUlNeFhzRkV0cXY3VTVSSmZKZXl0WE9RZlg3SjlWRDBLaVVvb2JTQWNCUjFUcWVXb2h4a0Y4aUp0d29uMzNIbUFoWXlmTGZqWFVKODdwQXVkaUpaempSR05pVDJCaUZEemdrd2ZRZGlNdXpmLWZwRmNIcFNLVnFXeGU5Zw?oc=5",
+    "publishedAt": "2026-11-11T05:41:31.000Z",
+    "date": "2026-11-11",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "963390aacb73f146",
+    "title": "上海造、香港连，中国AI加速走向全球 - Sohu",
+    "summary": "上海造、香港连，中国AI加速走向全球 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMGNtbnJ1RzdpX3YwN3NETVZQaFJCVzg5V0FrZzRMRjB6TnpPR3lINWI0TWdZXy1yd0VfNjV3Q2dYYUxuWk8wRERfMGtweVpPT3drX3NHRHB6aWxoREM1S0dxZlNMTzNpVEh1Y18zY3p6UUhybHltbHlBYkNjUnN0ZXQtdkFnejZQ?oc=5",
+    "publishedAt": "2026-11-11T05:41:11.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "baa0bd713e41af0a",
+    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替 - Sohu",
+    "summary": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUp3U2o0R1JfQnVqTnVVWU45b0NHdVY5WVVCMWlpYnNFSXNsR1FGNVRGWnlULWt5YXNYdURQZzMtQXJHYjM4NGtDZVpPSlo2d1NMbmNZVVFrME9HZE5saHJjZExacXdweGxwSllKYm5wTkN1TldzU1NhYjZaMUtjV3QzRzdkX0lz?oc=5",
+    "publishedAt": "2026-11-11T05:41:11.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "2695c4a119e686f1",
+    "title": "漫评：治理AI换脸侵权迫在眉睫 - http://www.jingjiribao.cn/",
+    "summary": "漫评：治理AI换脸侵权迫在眉睫 &nbsp;&nbsp; http://www.jingjiribao.cn/",
+    "source": "http://www.jingjiribao.cn/",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xdE5TNm9nOEFFZExGM05QNnZIZU9mZVJRX2xDdl96X0g5Nk1FUjJlLWtTeTZMVF9YQTd2SUY4OVItSmlpWnJlTU5DenpqMDViTFE1aU5vLVJYWjdqbFJrQkJ6UQ?oc=5",
+    "publishedAt": "2026-11-11T05:36:57.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "bf086c98f0d1ce12",
+    "title": "​灵光托管事务量突破300万，个人AI助理开始比拼“管事能力” - 品玩",
+    "summary": "​灵光托管事务量突破300万，个人AI助理开始比拼“管事能力” &nbsp;&nbsp; 品玩",
+    "source": "品玩",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WN3pwd2xaQThlUTcydWRJN0Y5TW52bzdWcTRWRklYdXhibGhuaUw2dVZnZkpRUk5LbEtySGtxSVpET2xNaDc3cg?oc=5",
+    "publishedAt": "2026-11-11T05:35:30.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "a78e1fc1f08293cb",
+    "title": "高居翰的治学遗产，启发AI时代的美术史研究 - Sohu",
+    "summary": "高居翰的治学遗产，启发AI时代的美术史研究 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0VDMV9zVHRLd0JEQXQ5ZjJPdGlpZDZBa2tfdFpqYzJNaWxjbTJWX2ptMWFzLXp0TDVhNHB0VkpPMzczX1ZtVVFhZk9OMmNCQW9zdVhYUnNUNmN0YTNiQ1FzdnFmc3hQTzB3WHZ1ajA4TjZlOElvQWRPdElDMXQyOG4tbWVDaks1WXI4Vg?oc=5",
+    "publishedAt": "2026-11-11T05:35:27.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "6ea2a8fc5cce3231",
+    "title": "Photoshop迎来AI进化：照片能重新打光，删物体还能清理倒影 - Sohu",
+    "summary": "Photoshop迎来AI进化：照片能重新打光，删物体还能清理倒影 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQTA5TWZEOGc3djBZVmhpaFpiN2x2cG5iU0F5dlVDclJvcHd0Mms4NjlpVWIwLUZrQkxjU25zX0pnTVNYakpmUmR3TnlwSk91dE9ZMTVQSERhdkQwbFp0TlVaWXdCZUkxOHlLdHRQQ2tPN1ozM09ka2JSMkdqWUpXT1p0SFp1bVpV?oc=5",
+    "publishedAt": "2026-11-11T05:34:37.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "78bb0dcb8bec1407",
+    "title": "华尔街AI算力期货梦再受挫！美国监管机构推迟批准，首批交易至少等到2027年 - 金融界",
+    "summary": "华尔街AI算力期货梦再受挫！美国监管机构推迟批准，首批交易至少等到2027年 &nbsp;&nbsp; 金融界",
+    "source": "金融界",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12QnBxT280eXNqUjlPcWlfeXZoRTZPNlF6c1dVMS1zeThkYi1YSnBoeXBTVk9SNlNZYXFWWUsyRVNHTU5ubGpQa0VBbW5kMXBvVnlPWEQ2VUZXZmM0SUNpNkF3WQ?oc=5",
+    "publishedAt": "2026-11-11T05:33:27.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "8ee932e546d79d52",
+    "title": "炬芯端侧AI芯片ATW6095定义高端AI Note，商业化落地全面加速！ - Sohu",
+    "summary": "炬芯端侧AI芯片ATW6095定义高端AI Note，商业化落地全面加速！ &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1fb0dyUUR6U3FIS3VYTXFybW5GQWFTWDBJUENmc2xDcGVvcEVGZjEwdXlqSlpkc1FCZ0EwVXhSXzN3ZnFmNkJ3TV9OZnY1RVhpSHJyOWpyb2dPQzI0YUtSU1p4ZFVWYVZqT3A3MXhpYnlrMTY5UXUzaF9PbTFtV21OTldJS0FC?oc=5",
+    "publishedAt": "2026-11-11T05:33:27.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "bb86a12f7115cea8",
+    "title": "中关村人工智能与未来城市论坛在京举行，中科大脑发布4款政企智能体 - 新京报",
+    "summary": "中关村人工智能与未来城市论坛在京举行，中科大脑发布4款政企智能体 &nbsp;&nbsp; 新京报",
+    "source": "新京报",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1cTU5ejQyMGRfOWQ5MTNDOWZGbDVyR2dWOUNFR0d0UmVLU3hZSFJiVUhtd0hTeDlWc3hfNlRta21RV1ExRk9lampUdEp2X3F3Z1BPbUdVeV9VVzNBSWpBZ0VOWFE?oc=5",
+    "publishedAt": "2026-11-11T05:33:00.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI",
@@ -14,458 +313,159 @@
     ]
   },
   {
-    "id": "8637fbfbc2ff5605",
-    "title": "英飞凌上调AI相关销售预期，受益于数据中心扩产计划-36氪 - 36kr.com",
-    "summary": "英飞凌上调AI相关销售预期，受益于数据中心扩产计划-36氪 &nbsp;&nbsp; 36kr.com",
-    "source": "36kr.com",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5URktweXJfaDl1SWlWQXhkeU1HR2RGdW1QUXhCMHNZVThuaE9oeDN2Z2J0X21GellMWnh2aFpUaW9JLTMyWTR4MnFhbk9hWDF0eWNKdm1hSFE?oc=5",
-    "publishedAt": "2026-11-10T07:00:34.000Z",
-    "date": "2026-11-10",
+    "id": "69a51a64a1e65906",
+    "title": "法国专家报告建议对生成式人工智能加强监管 - Sohu",
+    "summary": "法国专家报告建议对生成式人工智能加强监管 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0sxWFplcEl4dEtfTmFvTGZnYW1Sbi0tbDZEQ0gxak5qV1ZjeTZuMVZrRkRXTkhHVkpxTnE1YjJiLVJmWHhWM1FTTUhGUFJ4aU05MDh1REVaNDFuTFByTDNXTkQ2bVdaTzJRanYtMTlWR1NGOHpIT0hYTDhHaWFLdUUwOUNEdmJxeWVQeA?oc=5",
+    "publishedAt": "2026-11-11T05:30:00.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "122fc22a661a22fe",
+    "title": "上海新增6款生成式人工智能服务备案 累计完成213款 - 观点网",
+    "summary": "上海新增6款生成式人工智能服务备案 累计完成213款 &nbsp;&nbsp; 观点网",
+    "source": "观点网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xRmxKSTJzejVBZVR6b2hCNDdQUnhnTmt4X3d2SFpYV2RHLVZCN0dJNXc5Tl9tUklQUGNMU1dEeVZLX2xNVVRYZFFkNnZmeUdZcFJta1pQWElLSTJJQVJjNnh3?oc=5",
+    "publishedAt": "2026-11-11T05:29:06.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "6a4efacc9b9f0604",
+    "title": "AI客服为何总“兜圈子”？ - Sohu",
+    "summary": "AI客服为何总“兜圈子”？ &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFhtX1UzaG81QjBfMmlsWXd5cGJYWkhuVG5EVU5kQ3pVNlVVMElMOTB1cDZUQ1VKTUlZVG9BOXhmeGtYcFQzSmZuQVBNTnEybHhCRmxIcW0wMWJiNzNMc3U4SHh5dW9ZZ1oySGtZV2FyWHdsOURidE90N25BS3U2bDdZcGxGR3FndEVPUg?oc=5",
+    "publishedAt": "2026-11-11T05:29:03.000Z",
+    "date": "2026-11-11",
+    "language": "zh",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "5db2d8b036eeefd8",
+    "title": "国泰海通研报：世界模型本质突破在“可交互” AI互动影游为文娱先锋 - 观点网",
+    "summary": "国泰海通研报：世界模型本质突破在“可交互” AI互动影游为文娱先锋 &nbsp;&nbsp; 观点网",
+    "source": "观点网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45STBrSG5KY0RIdUd6eDhvaWNrTWdud2xlTDRRMnpaRXFxY3lwRjFLLWRpSHh4M2RfNXJMTzUwczZ1SDI3bDM3STZLUnpOR0hiUXpZNnY2VmVrck9uRFUzS3F3?oc=5",
+    "publishedAt": "2026-11-11T05:27:39.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI",
-      "数据"
+      "模型"
     ]
   },
   {
-    "id": "2a850756073000ed",
-    "title": "报名 | 11.24 以真实，丈量智能：智源REAL物理AI开放日 - 智源社区",
-    "summary": "报名 | 11.24 以真实，丈量智能：智源REAL物理AI开放日 &nbsp;&nbsp; 智源社区",
-    "source": "智源社区",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03bWN0ZVNCeGgzZW5fcjByM0pPX2traXhRTk1SUldHd0Y0ZDhTczcxbWp4a0l3WUFxdFlmcnBfUFNMb0N1UzNwRw?oc=5",
-    "publishedAt": "2026-11-10T07:00:00.000Z",
-    "date": "2026-11-10",
+    "id": "d92e5a1e1d3a6c8b",
+    "title": "以赛促创，筑造 AI 人才底座。第九届中国高校计算机大赛人工智能创意赛总决赛 11 月南京开赛 - Sohu",
+    "summary": "以赛促创，筑造 AI 人才底座。第九届中国高校计算机大赛人工智能创意赛总决赛 11 月南京开赛 &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHp3NGE4NXNzb3JHSFc1TmFRWk9ZUmlpQXVwU3cySV82Rm9xaTRKQTE0RV82Nk4xRGd0b1ZUelpfaTZ6ek9wVHZ3bGR0dUJPN2NJWFNVaUd4eVpwQ3RfNTloaWNiQk1kREtLdlVkdFFZcEhHR1ladDlQNGhJazJ0Sm1uVGlpRjVE?oc=5",
+    "publishedAt": "2026-11-11T05:24:24.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "c71e9bdb77ab6929",
-    "title": "高盛深圳调研之后，勾勒出中国AI基建投资主线：高功率电源、ASIC液冷以及800V直流供电 - 金融界",
-    "summary": "高盛深圳调研之后，勾勒出中国AI基建投资主线：高功率电源、ASIC液冷以及800V直流供电 &nbsp;&nbsp; 金融界",
-    "source": "金融界",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wdWRtQ0VTS1JoVW9BenpQNFhMVXhuUHRuc05zSzlGLW00YXo1VHh4ZFpnbEo5VzM1aEgyUjNoQmZTUEQyX1VfNk9LaVMyMURvZ01ZYks3RHdpaVJjd25yT2o3dw?oc=5",
-    "publishedAt": "2026-11-10T06:56:51.000Z",
-    "date": "2026-11-10",
+    "id": "ea479f458f6b465c",
+    "title": "239元 内置千问大模型的AI“魔法”打印机，真的好用吗？｜消费不踩坑 - 凤凰网",
+    "summary": "239元 内置千问大模型的AI“魔法”打印机，真的好用吗？｜消费不踩坑 &nbsp;&nbsp; 凤凰网",
+    "source": "凤凰网",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42cldjV1Badko2QUtoY3ctTlozSlFLemR1U1c4cV9wRXZ2OFZ3OGVEVVVBNFNRanRhZGhaby1MRnlnVkdjT1pESkdabUd5VVE?oc=5",
+    "publishedAt": "2026-11-11T05:24:04.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
-      "AI"
+      "AI",
+      "模型"
     ]
   },
   {
-    "id": "327b55771f500fa3",
-    "title": "瑞银：AI基建撑起全球增长半边天 云厂商明年资本开支达1.75万亿美元 - 金融界",
-    "summary": "瑞银：AI基建撑起全球增长半边天 云厂商明年资本开支达1.75万亿美元 &nbsp;&nbsp; 金融界",
-    "source": "金融界",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xRk40SGpYU09sbEV5MmI4SHNwbUVJVjlSQkI2WVRkcHBESUJraEtDaFNLY1dTUS1VWjhPOXBza2J4WG1RbGptTWViLWliRVVWampRcVNaNUNEa3p5Q2d1MHZQQlZLcmVscUJPclR3eUpNZw?oc=5",
-    "publishedAt": "2026-11-10T06:56:02.000Z",
-    "date": "2026-11-10",
+    "id": "5d0b0516cb47ba53",
+    "title": "当AI给自己出考题：SWE-Duel如何让编程智能体互相\"决斗\" - 科技行者",
+    "summary": "当AI给自己出考题：SWE-Duel如何让编程智能体互相\"决斗\" &nbsp;&nbsp; 科技行者",
+    "source": "科技行者",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95djZzLUpPSmNaRjlDUVZwR2c4OFVTRGprOTNjaUx5R0R4ckZxRG9fbTlRYjdhZm04OUVfYmZQWHFWeVFsbzRJeV9MeXVXang3QXA1VHF5eS1LeXN2b1hZ?oc=5",
+    "publishedAt": "2026-11-11T05:23:00.000Z",
+    "date": "2026-11-11",
     "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "de8d7e675a70a043",
-    "title": "快克智能参与苹果AI眼镜及耳机项目 TCB设备2027年逐步贡献收入 - 观点网",
-    "summary": "快克智能参与苹果AI眼镜及耳机项目 TCB设备2027年逐步贡献收入 &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kTkxPMWJTZldWekNlWUhSNmZaMnlrTVpYZ2pSVG5jaTduSG45dWlVbXctWjNSb0hSaWN1SHZmd3B2cVA0NEVBRm9SalRBeng3Q3FBb1ptTW5ibWgxQjFWckVB?oc=5",
-    "publishedAt": "2026-11-10T06:55:37.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "2ec1404d8b5b053a",
-    "title": "Colorado, Wyoming researchers use AI to predict destructive hailstorms earlier - Denver7",
-    "summary": "Colorado, Wyoming researchers use AI to predict destructive hailstorms earlier &nbsp;&nbsp; Denver7",
-    "source": "Denver7",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmljR25VZndSSWg4cDZjS0xYUDktckotaEpTX09tWmVrNk1VakV2Rk1WUzRmTjhaRGNzRGRnekt2cjB0WkFNWk1iaENNRHVENHcxLTVKcHZUX3ktSDJsZkdTTndoRjFIUFVLbTlvanQ0WFYyQ2FiSXYtcy0zanlfUHNNZm9KYjV0YlVHWlpWWGdmNko4ZkRNSGplS2FkTFQ4aFB2cEYzSWlnZWVxT2M5RkVXWWJYazZNQWVZRmRLSkpQX3ktdmgxV0Q3TWlLZnJuZXdqRjNLWm11dERNc05WaDJXWURnclNx?oc=5",
-    "publishedAt": "2026-11-10T06:55:33.000Z",
-    "date": "2026-11-10",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "4da984c8a20c1c71",
-    "title": "多家券商最新预测：2027年A股怎么走 - 中新经纬",
-    "summary": "多家券商最新预测：2027年A股怎么走 &nbsp;&nbsp; 中新经纬",
-    "source": "中新经纬",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iQkJKaGZaQV8wNWliWERDMDlSMmRhUlVFRlNmdXhYVkZlYjEwd0RjVWl0Vmg4OHg0X0Q1eVIwTkcxemxiUFBPT3VkUHI0OGQzUWZqdzRKWGExLUd0RjdheGowcmpVenM?oc=5",
-    "publishedAt": "2026-11-10T06:53:33.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "e22f0fd09f959334",
-    "title": "能耗直降31%！Nota新方案让AI推理快52%：NPU管输入GPU管输出 - 驱动之家",
-    "summary": "能耗直降31%！Nota新方案让AI推理快52%：NPU管输入GPU管输出 &nbsp;&nbsp; 驱动之家",
-    "source": "驱动之家",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDaDgxZFNCNzVkcDhXNkpkRGVtbEtfUWNqVDNpTXBGYzItMGVDTDd3aXJKb0x5TFVKTkpqU3d5dXNPTjhIc01TSzZDQkd5Q3pUdW92SVA5VDc?oc=5",
-    "publishedAt": "2026-11-10T06:53:00.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "a499440d6de503a9",
-    "title": "软银集团二季度意外亏损710亿美元，AI投资组合遭重创 提供者 Investing.com - 英为财情 Investing.com",
-    "summary": "软银集团二季度意外亏损710亿美元，AI投资组合遭重创 提供者 Investing.com &nbsp;&nbsp; 英为财情 Investing.com",
-    "source": "英为财情 Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yb1BEMXZvcnpfRlhnVnBNcW5pODZjOTdRcEJwSDRtR2xpSHlTWnBGajhLNlZueFBSMi1sUTQyWTZsOS1aeDNIWGpRUWNRS0Q5bUJqQTBUSkw5SFNPZmxmMG1NamU?oc=5",
-    "publishedAt": "2026-11-10T06:51:00.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "a8d05e867d5abd4f",
-    "title": "英伟达的信任风险是在创造机遇，还是为人工智能基础设施带来更多风险？ - Moomoo",
-    "summary": "英伟达的信任风险是在创造机遇，还是为人工智能基础设施带来更多风险？ &nbsp;&nbsp; Moomoo",
-    "source": "Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNjlWaFJCYW1VLWI2RjR0QXZtUG04SThERG5fVkttamxNTzlFNHdNUTJsMWp6ZzQxbGZMNm5BSzh1dDlReFlZVG1lQVZPWkxYUU5nVXdwcW5iNlh6a2hBMnBBc2huanpicXc?oc=5",
-    "publishedAt": "2026-11-10T06:50:29.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "c743ab77f65e762c",
-    "title": "Seko生态再造爆款！AI短剧《持械入宋》全网累计播放量超过120亿次 - 搜狐网",
-    "summary": "Seko生态再造爆款！AI短剧《持械入宋》全网累计播放量超过120亿次 &nbsp;&nbsp; 搜狐网",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEs2TlMtbnJyTThSVV80dGUyUDV0eWZSZEVWVFJVYnhrOGJBUzBlTlBlYjhDWnJ4ZzM0VUVNQjJfcU1EZmVkSWZEa2xncEVnd1k1aXJxcHE3QkRhSnBaU296dFNuMktQbVZybDQzaGNJLTJzLTRBSkJoUGM3eWFjTHpFWjVDek9uX285eg?oc=5",
-    "publishedAt": "2026-11-10T06:49:37.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "0a75b939aae14523",
-    "title": "Anthropic、英伟达重磅！物理AI再度引爆机器人(附股)_证券要闻 - 中金在线",
-    "summary": "Anthropic、英伟达重磅！物理AI再度引爆机器人(附股)_证券要闻 &nbsp;&nbsp; 中金在线",
-    "source": "中金在线",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85YTdkX2NiWTRRbVJHSVRWVTdkNVJIMU5DOU5vVGpzUG9IYTVhamR6VEZoUFdRdEtkVmR1UDRrT0J6ZWtVSDlGLWRkVWg1LVhsMWJ0S3hhUWhpeU81bjE4TTRGTDhRd0NXNVdodkFn?oc=5",
-    "publishedAt": "2026-11-10T06:49:05.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "5b16ae07d8133fd8",
-    "title": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost? - The Conversation",
-    "summary": "Why is Nvidia so powerful in the AI world, and what could Jensen Huang’s scandal really cost? &nbsp;&nbsp; The Conversation",
-    "source": "The Conversation",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUpEWDdqVXZzWTVOYXFhQXI4S0kzSkF1aFNVTmlkVVV4Wktzak11TTVGMGJKQ1lzS3NiX3AtOGQ1eWxTSkRCTUVJUlF0bE90TjJZd2pmWlVaZF9ubmxmSHExWE52Z1IydU45NFUzalNTMUhJUzZFWko1RDNOaVl3X0FpckJ4em1nTVlYQnloLXhiY0Z2ekx6MWJrbDFRaHl3VzhxQWtwVHMtZERYU2pDT0REV05ndWdwdG81alRSVFZpSmc?oc=5",
-    "publishedAt": "2026-11-10T06:49:02.000Z",
-    "date": "2026-11-10",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "9965e909f127f3f0",
-    "title": "Seko生态再造爆款！AI短剧《持械入宋》全网累计播放量超过120亿次 - 手机新浪网",
-    "summary": "Seko生态再造爆款！AI短剧《持械入宋》全网累计播放量超过120亿次 &nbsp;&nbsp; 手机新浪网",
-    "source": "手机新浪网",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbGNsNFY1aV9KaWZJUzF1XzZldFA5UUJzSHVVSVEyeUxEMGQ2WWg1SUE1LVpwVHpoYXNPaHd6cThKcGFicV94TkltMmZibXdDUmZzVDNxRld1WkFMajViS0dtZkpnd09JcWV2eHF5cGJINEtqV0tjU3FDR29MTzQ?oc=5",
-    "publishedAt": "2026-11-10T06:48:00.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "e2097cbc98b5063b",
-    "title": "[CIIE] Jungheinrich's China-Developed AI Warehouse Simulation Platform to Be Used in Europe, US - 一财全球Yicai Global",
-    "summary": "[CIIE] Jungheinrich's China-Developed AI Warehouse Simulation Platform to Be Used in Europe, US &nbsp;&nbsp; 一财全球Yicai Global",
-    "source": "一财全球Yicai Global",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmtrWXc3V1pGdnl6cWpQRTl3cEEwY1RQWmVNbVROUDBnYzhWNTNmMExPUHB0engzaXFXc1VvZjZZMVhyWE9hZjRBVXBzLXpqWGIycjUtY3kxMzNIdE82VGsydEJLWFR4OGdoUEdJZW9NZHNCWGRJUGNhWjd4bHhadmpEQzNMaHlzZkFCSlJMUDFCcGZyM08xajkwTTlIYVllMlIwSVBPVnVDai14QXlTQU9RR1NnMlpwWF9SMFpmRlJ2Zw?oc=5",
-    "publishedAt": "2026-11-10T06:46:37.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "06572e0e7830e8ec",
-    "title": "上映票房惨淡！国内首部AI院线电影为何“遇冷” - 搜狐网",
-    "summary": "上映票房惨淡！国内首部AI院线电影为何“遇冷” &nbsp;&nbsp; 搜狐网",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnJab0wwbThrdVVkNndIa2JBLWhONFBEV2IyWks0ZFBseXFyWmhTWXg3R3JyeW1TZHpWUW54Q3JWdVI5cm5yZ2NrbThZeGR3dlJVUkRJQS0xSkVMTW9KcVNYZmhPSzRRYTRXdWhEWnpXMmF4d0Y0ZTlfc2h4R2M2M0Z3X1FKd0pz?oc=5",
-    "publishedAt": "2026-11-10T06:46:22.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "48ebf215b13c8fb6",
-    "title": "Meta将AI年龄估算技术扩展至香港Instagram青少年帐户 - 观点网",
-    "summary": "Meta将AI年龄估算技术扩展至香港Instagram青少年帐户 &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZTVVCdW9SbHRWMFhxaWtaRnA4a1NSOFlOaHp3QXN1X0hBZ2NWeDlKXzBpeXhjSGU4Z3hCVDh6cXROaDNBSmhwUnB0alp3eU5tYXhmMzA5Sm8wSVpNMlNwbGln?oc=5",
-    "publishedAt": "2026-11-10T06:46:11.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "f99942900545bcb3",
-    "title": "微软新专利拟分发AI训练至闲置GPU - 新浪网",
-    "summary": "微软新专利拟分发AI训练至闲置GPU &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WMmRrMTJGZklpbVpXcnBhMTgtSTdiWC1yaHBGMHhCS3R3dDBPWHNFTW1tcmlMdVR4aVZRdW5vaC1WNkxydndJM3pPVThiUC1pR0JiWUdSSnYtS2JRaGVaSGxzOVBCVVpwOG5WRkVqY1M?oc=5",
-    "publishedAt": "2026-11-10T06:45:57.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "adb7c91754cf3f93",
-    "title": "微软新专利瞄准闲置显卡：用户贡献GPU训练AI，可获得现金或免费软件 - 新浪网",
-    "summary": "微软新专利瞄准闲置显卡：用户贡献GPU训练AI，可获得现金或免费软件 &nbsp;&nbsp; 新浪网",
-    "source": "新浪网",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SMTlCbmlmRnplQ08wZ2VXRkp3bkFFSnlWNDM3UkEzTkZfdkVWbWU0OUJRUzhtX1lZM2p6YUxOSWhZVkZuMEFITWFXLWhVXzItZVlzcElSRElKSjZueEluYjlvblhtTkJaSEs3d2xyOS0?oc=5",
-    "publishedAt": "2026-11-10T06:43:50.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "caf6aa5ad7344276",
-    "title": "Takaichi seek international AI cooperation at France-hosted meeting - The Japan Times",
-    "summary": "Takaichi seek international AI cooperation at France-hosted meeting &nbsp;&nbsp; The Japan Times",
-    "source": "The Japan Times",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkxGLXJ2RXYtOXFhMVFzU2h1aUV2NFJnNWE3d3oyUkJOeDVab2VyVTYzT244OXJuU3NHQmlWM1dUazQ3ZmJrWUJWeUsxSFdfa3IzNUs5enY5ckZFaHNlVmNWWlZLdTEzUXJ3eUU0MmZkZGpmX3UzQmh2T2ZnNXBIbkVZdDNWc3FUVVBIUVVOS2k?oc=5",
-    "publishedAt": "2026-11-10T06:42:00.000Z",
-    "date": "2026-11-10",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "afb6eb883c304069",
-    "title": "AI bites back: Nvidia boss Jensen Huang’s affair scandal sparks memes, from Coldplay kiss cam to Usher’s ‘Confessions’ - Yahoo",
-    "summary": "AI bites back: Nvidia boss Jensen Huang’s affair scandal sparks memes, from Coldplay kiss cam to Usher’s ‘Confessions’ &nbsp;&nbsp; Yahoo",
-    "source": "Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WQ0J4dzVNeUhyWXdCenFGcXNvZ0pKbDg1TVpqVXNFMTdkTzQ2Q2t0OVlCVUhxajBqLWwxLUZ1ZTZmOC1ETmRLNXRjeVV5ZWc2YUdnTlBFVkkwNlNKcy1hQzhRUVFoZWpvckU5d3FpSEZPTzJ5UnAxWGExN3A?oc=5",
-    "publishedAt": "2026-11-10T06:41:00.000Z",
-    "date": "2026-11-10",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "257ef110501b690f",
-    "title": "AI能力成韩国求职关注点 求职者与企业要求存差距 - 亚洲日报",
-    "summary": "AI能力成韩国求职关注点 求职者与企业要求存差距 &nbsp;&nbsp; 亚洲日报",
-    "source": "亚洲日报",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYYnVOSm1kWF9DVjMtSGxrRGppY2hnUEdYNjNDcFpzb0xfbUNLTE45a1phdXlteVdWZDV1ZV9DT1RjSHo4TVRBVHc0RjN3TlZCNk5iMlA5Y01DVTg?oc=5",
-    "publishedAt": "2026-11-10T06:40:06.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "03ff0230e2ac5672",
-    "title": "The impossible standard we're setting for artificial intelligence- opinion - The Jerusalem Post",
-    "summary": "The impossible standard we're setting for artificial intelligence- opinion &nbsp;&nbsp; The Jerusalem Post",
-    "source": "The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54OFhpQ3Q3eE16WThqdzZEQmhOb3I1dFNlY0tjWU5mX19VMDZOYV9ndEJzQy1zNzVKZzJTTFdvOUZkUkFtYjktZFp4QTh0YWpib3AyY01mV3poNExFcG9CajBSOGZ1S1BtbTE0OA?oc=5",
-    "publishedAt": "2026-11-10T06:39:43.000Z",
-    "date": "2026-11-10",
-    "language": "en",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "7d807932f12b83fa",
-    "title": "谷歌Gemini上线记忆摘要，可查看/编辑/删除AI记住的个人信息 - 搜狐网",
-    "summary": "谷歌Gemini上线记忆摘要，可查看/编辑/删除AI记住的个人信息 &nbsp;&nbsp; 搜狐网",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWi1tNHZTYldvclBkaXkxTHJ4MG9QcFgzc3Z1cVVHWF9WWjlQdEV4UzMzUDA3blBVeDNFTGkyZG45bmpjT2RKbEdkNUFpbTFTdGlVbTdQT25LV05MSTlxTzJfSkRYMGNVRnhkdDdKZXI4Yk5xN3ZnR1dOWmppUE15bXFpUzNoMlM0?oc=5",
-    "publishedAt": "2026-11-10T06:39:31.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "7658164f5530b405",
-    "title": "投资者涌入防御类股票，市场担忧AI牛市或将落幕 - Moomoo",
-    "summary": "投资者涌入防御类股票，市场担忧AI牛市或将落幕 &nbsp;&nbsp; Moomoo",
-    "source": "Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YeWNEV0N0NFFYdWRJVlJyN1F5U0l2YllJUklNdjZBb1lkRHpBZ0NQMEJPZVZfblVQZXU1b2tfTGI5SkJhZDEzNU45M09HS0xlR3hJNy1USmFHMzJX?oc=5",
-    "publishedAt": "2026-11-10T06:35:55.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "d8d3be0fe7ce4f04",
-    "title": "A股AI眼镜概念拉升瀛通通讯、朝阳科技涨停_公司新闻_财经 - 证券之星",
-    "summary": "A股AI眼镜概念拉升瀛通通讯、朝阳科技涨停_公司新闻_财经 &nbsp;&nbsp; 证券之星",
-    "source": "证券之星",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxNzBiQl9qdXhpbnBHU0dtZVRaUnBmRXRNeGJHSG1CRUNoVlV4bzVzTHJzZlUzMXZwMGotbmIxenRTd1FyQUZnM1o5Y0ZIbFlnbHhEMG5lMFFnV1gwMzNWVg?oc=5",
-    "publishedAt": "2026-11-10T06:35:00.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "9f47b774bcb0e4cf",
-    "title": "90%的疾病管理在院外！这套AI矩阵，想让医嘱“出了院门不断线” - 搜狐网",
-    "summary": "90%的疾病管理在院外！这套AI矩阵，想让医嘱“出了院门不断线” &nbsp;&nbsp; 搜狐网",
-    "source": "搜狐网",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUpJblRxODk5TXlXZFRwYzlsQWdwTG9hMW43QUZMM1BlcFJiQjktMXZma2paOTI0bnl0bmlyREFtSjBKM01kODJpMjJJQkg4M050WGUtZHVuS1BielBBU04wNTYwa3AzV2tvTzJZbjVrUGN0NU5HNWs5X3RQTlJrNFNaRHhsUG5VYWJqcQ?oc=5",
-    "publishedAt": "2026-11-10T06:34:43.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "bd58c9cbde23799b",
-    "title": "科大讯飞发布星火智慧座舱3.0及两款AI Box，已搭载奇瑞、长城魏牌、东风日产 - 网通社",
-    "summary": "科大讯飞发布星火智慧座舱3.0及两款AI Box，已搭载奇瑞、长城魏牌、东风日产 &nbsp;&nbsp; 网通社",
-    "source": "网通社",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uTGNIRHlEd0E4RDQyel9jdzVQRnM4SVF5eGswSkZEemFiRkVnVU44ZG9UTzdOcUUtcF9SZFItNWFFZUh6YjIwZlBDY0N5eHJVNE94eVgyM3BvdjQ?oc=5",
-    "publishedAt": "2026-11-10T06:33:10.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "afe5053221e6ae3a",
-    "title": "SEEWAY.AI Unveils Mobile Intelligent Agent Strategy - Gasgoo",
-    "summary": "SEEWAY.AI Unveils Mobile Intelligent Agent Strategy &nbsp;&nbsp; Gasgoo",
-    "source": "Gasgoo",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGZDV0cwYXFRQk9DTC1JcHVRaGZKQjBQbEJyVXFFdXNhOXN0eHdST2FPVXFXNk9QNE1nRXJXSmxMb0kwNWFaY3lnNjV0d09yN2thN2JmeXU0cFg1aGVpNm4tWUxwS2ktTjlld1BfR21mSUV0WTIzUWJGeVg3Nk4wNEJIdFFxSVo0LUNMZThlVWlTaldSUDg0NkQ4VWRDM1JSVHphZjFkcEZWUS1tQlNZdWxR?oc=5",
-    "publishedAt": "2026-11-10T06:32:32.000Z",
-    "date": "2026-11-10",
-    "language": "en",
     "tags": [
       "AI",
       "Agent"
     ]
   },
   {
-    "id": "79d969f424c28e2d",
-    "title": "大华继显研报称AI由基建投资转向智能变现，首选阿里巴巴、腾讯及智谱-电报君 - 金融界",
-    "summary": "大华继显研报称AI由基建投资转向智能变现，首选阿里巴巴、腾讯及智谱-电报君 &nbsp;&nbsp; 金融界",
-    "source": "金融界",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LTFlxNGhDZzhxS1pCdWVlSzkwM2ozSTdUX19KdTBYSms1eWNKRlFKQ2hoVlZ5MTFWNGFyRnZLYVdmLU1KbDU2Ti1CUzJfbGRhcGdtc19FZkNKdkc0RlU2R285ZFV3Y3lGb2NoT3cxOHl5RWlO?oc=5",
-    "publishedAt": "2026-11-10T06:32:22.000Z",
-    "date": "2026-11-10",
+    "id": "c235a626a4489358",
+    "title": "InstantFusion：当不同的AI画师开始互相接力画画 - 科技行者",
+    "summary": "InstantFusion：当不同的AI画师开始互相接力画画 &nbsp;&nbsp; 科技行者",
+    "source": "科技行者",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pLUdsX3ZuTVRuajdEZUhIV2JNNkJLU3IxbVJfbmwtVldoLVVZdkNHTGRwNWZfZ0VjcnlYWncxN0RIN2hSTThHNU51dTRnZnB6a1pYZUppYUI0YmtZVEJn?oc=5",
+    "publishedAt": "2026-11-11T05:22:00.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "90f7c7d7338c3dbf",
-    "title": "和平饭店:51万小票系伪造 AI假图引发关注 - 中华网",
-    "summary": "和平饭店:51万小票系伪造 AI假图引发关注 &nbsp;&nbsp; 中华网",
-    "source": "中华网",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ReEo3MGwwdDJCeHlGeVU4YTlaT1RrMThZOGRSUVdyQWIwaHRMOWdWSHNacmRTMDZZRUlxRWJtUHF2bWhva19GTHdaQnljQmFFd2R2eko3LS1HLU5XQ213WW5zXzBOV0NGbC1weFVKeVE?oc=5",
-    "publishedAt": "2026-11-10T06:27:09.000Z",
-    "date": "2026-11-10",
+    "id": "01d2cb01cd95af2c",
+    "title": "AFG embraces human intelligence as new AI tool revealed - Mortgage Professional America",
+    "summary": "AFG embraces human intelligence as new AI tool revealed &nbsp;&nbsp; Mortgage Professional America",
+    "source": "Mortgage Professional America",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEV6aFZaZWtqcllJZ3BZMWtkcU5HRThqSUhnVXRNOEJ6QlNwT3BIMFJUOTJ0Wm1FX0VZYmVXMFBicEtmM21haTZmWDk5M1VUSkVwdUh3X0ItSk9BX2ZYa2FtWGpvaDlPdGt2eVh0WER6YmQ2SGlKcS00YkowSi1FS3c0cnpkU29FZHhsRnhqYUR4MjdrNEgxMFcxTjZjUUYxMEgw?oc=5",
+    "publishedAt": "2026-11-11T05:21:49.000Z",
+    "date": "2026-11-11",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "777cc2916e162925",
+    "title": "Artificial Intelligence: Helsing unveils a potential competitor to Palantir’s Maven system - Table.Briefings",
+    "summary": "Artificial Intelligence: Helsing unveils a potential competitor to Palantir’s Maven system &nbsp;&nbsp; Table.Briefings",
+    "source": "Table.Briefings",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEVBQzZOTzhuLUs5ei00UG94UUpaQVNTempPMDRscm9rcUZqeHI0cEx1a3B3TnBzTDFYN2w0aEtMdExYXzZwMnl3d0d3aFJsTTRSd3JmSXBNYzJIYnJSbHRqWFFzaTBSSGJWTDg4cDFOdnJ0QXdsM3hVYzV4cVYzMkF6UFE0M25QNlhoSnZ3WFQtbExCWmtNWEVkRVlpOU9NNVNNc3F0UE1MU1pwanRyc2JEclE5NXFLdi1vM0dnWEpxSTQ?oc=5",
+    "publishedAt": "2026-11-11T05:18:16.000Z",
+    "date": "2026-11-11",
+    "language": "en",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "c5cba898b17c03e5",
+    "title": "黑客盯上AI时代最宝贵的资源：算力 - 华尔街日报中文网",
+    "summary": "黑客盯上AI时代最宝贵的资源：算力 &nbsp;&nbsp; 华尔街日报中文网",
+    "source": "华尔街日报中文网",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMmRNdGpEQVpScG5DZWhVSUM4RVlvc0NWYjdUbDBYYXBPcTYwMnZuQm5Ld0ZqRkNhUzhRYmFFYVppRV9wY2R1V1JQYlNSOEpuQzJhQjFXT0FvUXhvbFNPQ3dLeU1DNGloV0tQM3B4OTBILUtBNWdwaVVYTFZrdkJHUkg2MGZRTTk5TXFzVEJjMDV2UnRXbXV0YlhGUVBnRXlocF9iQlJtUl9tLTlXTURWdFZqNDhKa2M1Q1pZanpzRjY1QXo0cFFGM3ZCWHpvaUpZWjZ5dXM1dGhMRUpoaEhMQmpnX0lzTWFCQnNPRWJJSk9PLWtuLUZyN1pR?oc=5",
+    "publishedAt": "2026-11-11T05:18:00.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI"
     ]
   },
   {
-    "id": "ab82b02f3ac1b26e",
-    "title": "当AI进入创作现场，文学如何重新定义“好”？｜文化观察 - 手机新浪网",
-    "summary": "当AI进入创作现场，文学如何重新定义“好”？｜文化观察 &nbsp;&nbsp; 手机新浪网",
-    "source": "手机新浪网",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IemJUbkNlbkNlQW1La2NyUDZzekMzaGxTQkVOOFFMSnV3amJoUFlqTFJoVnNOZi1ZR212enNmMEpnOS04VU5UR0hkXzhLN1RSVnMyaXZLZm9FUVNOMjY4dS1YbXRkb2hLS1BBZ29keDBfejRXVkxWVHVlRl9QQQ?oc=5",
-    "publishedAt": "2026-11-10T06:26:00.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "da008a4ead684cd3",
-    "title": "筑牢底座物理AI基础设施加速构建 让AI“走出”数字屏幕“走进”现实世界 - 手机新浪网",
-    "summary": "筑牢底座物理AI基础设施加速构建 让AI“走出”数字屏幕“走进”现实世界 &nbsp;&nbsp; 手机新浪网",
-    "source": "手机新浪网",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WDFqQllEMXNiY2dTeEFVYnJXRUl4SS1tT2tCZ1Y1MDJGc0VYQ1Fvc1RTUHU4bnRJTFoxZzc5M0lXM09VbWNwaUJSWFBBX1dqejZablpwbGk1dlJiMm8zaHgyUFpya1pYMmVOUFdMWkVxcDdKeG9MRWxoUk1GOEk?oc=5",
-    "publishedAt": "2026-11-10T06:25:37.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "a85bddb89c6979ff",
-    "title": "Cloudera在上海举办 EVOLVE FORUM Shanghai，助力企业夯实可信数据基础，加速AI规模化落地 - 存储在线",
-    "summary": "Cloudera在上海举办 EVOLVE FORUM Shanghai，助力企业夯实可信数据基础，加速AI规模化落地 &nbsp;&nbsp; 存储在线",
-    "source": "存储在线",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzY19wNUNDNFg3cVpuNl9JWnRBZHFDcFE1R0lUY0dFbk1pSkRiSUl6a3dxT1g2M3EzSExGeE5IY1Bvb2l6VmVROGFSdTQ?oc=5",
-    "publishedAt": "2026-11-10T06:24:52.000Z",
-    "date": "2026-11-10",
-    "language": "zh",
-    "tags": [
-      "AI",
-      "数据"
-    ]
-  },
-  {
-    "id": "e34145a11a6b0f34",
-    "title": "今日头条前CEO陈林宣布创业 创办AI教育品牌 - 观点网",
-    "summary": "今日头条前CEO陈林宣布创业 创办AI教育品牌 &nbsp;&nbsp; 观点网",
-    "source": "观点网",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLbDRnMFNBOWxQLU1yN2pnQ0RaWkp5WjU0a3pJRHlrdUV1WUxYc3Y2WDc4ek9TMXdwNlNRQXVZSjFwZGRiUS1PY19FYlhiSEJteUxrQlJnemUxRG91c2Z0RXl3?oc=5",
-    "publishedAt": "2026-11-10T06:24:45.000Z",
-    "date": "2026-11-10",
+    "id": "f563dd78ff83db79",
+    "title": "为什么全球AI公司都在抢购二手书？ - Sohu",
+    "summary": "为什么全球AI公司都在抢购二手书？ &nbsp;&nbsp; Sohu",
+    "source": "Sohu",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXVNLXFtcFp2a0ZuSUt1RnR4M1FqSVE3aGpJSWNFUnUxeGtGZFdySjZITC00Zm5Ga21IalplNkllMk1UNnd1blBHb082RkpCc0dUV29mbzA4SW52V2NvamdmSmVjTjQ2V3pNT0o5RWxZSmpVektzbDRzNG9lR014cHJpWWMzREdX?oc=5",
+    "publishedAt": "2026-11-11T05:16:00.000Z",
+    "date": "2026-11-11",
     "language": "zh",
     "tags": [
       "AI"
